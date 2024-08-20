@@ -36584,7 +36584,7 @@ msgstr "English"
 
 msgctxt "80002_SYSTEM"
 msgid "French"
-msgstr "French"
+msgstr "Polski"
 
 msgctxt "80003_SYSTEM"
 msgid "Italian"
