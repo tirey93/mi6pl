@@ -1,10 +1,10 @@
-8/20/24 8:19 PM
+8/20/24 8:29 PM
 Project Statistics
 
                  	Segments	 Words	Characters (without spaces)	Characters (including spaces)	#Files	
-Total:           	   14168	111104	                     498586	                       592975	     2	
+Total:           	   14277	112101	                     503100	                       598408	     3	
 Remaining:       	       0	     0	                          0	                            0	     0	
-Unique:          	   11771	100808	                     451445	                       538331	     2	
+Unique:          	   11851	101805	                     455843	                       543648	     3	
 Unique Remaining:	       0	     0	                          0	                            0	     0	
 
 
@@ -12,4 +12,5 @@ Individual File Statistics:
 
 File Name     	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
 collectable.po	           170	                 0	            170	                        0	       3167	              0	        3167	                     0	                            15477	                                    0	                             15477	                                           0	                              17790	                                      0	                               17790	                                             0	
+lediary.po    	           109	                 0	             80	                        0	        997	              0	         997	                     0	                             4514	                                    0	                              4398	                                           0	                               5433	                                      0	                                5317	                                             0	
 omega.po      	         13998	                 0	          11601	                        0	     107937	              0	       97641	                     0	                           483109	                                    0	                            435968	                                           0	                             575185	                                      0	                              520541	                                             0	

@@ -3318,6 +3318,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>----</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>----</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>-ahem-</seg>
       </tuv>
       <tuv lang="pl">
@@ -3678,6 +3686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>1) Stupid name. Who names their kid Guybrush.$</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>1) Głupie imię. Kto nazywa swoje dziecko Guybrush.$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>1. Are you a pirate?</seg>
       </tuv>
       <tuv lang="pl">
@@ -3846,6 +3862,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>2) Thinks he's a mighty pirate when he's neither.$</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>2) Myśli, że jest potężnym piratem, kiedy nim nie jest.$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>2. Have you been to Plague Island in the last 6 months?</seg>
       </tuv>
       <tuv lang="pl">
@@ -3970,6 +3994,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>29. Sprawdź to!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>3) Always trying to hunt for the same treasure I am.$</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>3) Zawsze próbuję polować na ten sam skarb co ja.$</seg>
       </tuv>
     </tu>
     <tu>
@@ -4110,10 +4142,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>4) Stole Elaine from me.$</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>4) Ukradł mi Elaine.$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>4. Did you answer question 2?</seg>
       </tuv>
       <tuv lang="pl">
         <seg>4. Odpowiedziałeś na pytanie 2?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>5) He gets much better press than I do.$</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>5) Ma o wiele lepszą prasę niż ja.$</seg>
       </tuv>
     </tu>
     <tu>
@@ -4190,6 +4238,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>6) Only interested in the glamor of piracy. I walk the walk. He just talks.$</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>6) Interesuje go tylko urok piractwa. Chodzi i chodzi. On tylko mówi.$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>6. Are you now or have you ever been a member of the Pirate Party?</seg>
       </tuv>
       <tuv lang="pl">
@@ -4258,6 +4314,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>673. Sąd Okręgowy, Brrr Muda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>7) My ship is a lot better than his.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>7) Mój statek jest o wiele lepszy niż jego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8142,6 +8206,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>April 1</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>1 kwietnia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>April 10</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>10 kwietnia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>April 2</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>2 kwietnia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>April 9</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>9 kwietnia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Apropos of nothing in particular, I thought I'd mention that I have a friend who edits a paper.</seg>
       </tuv>
       <tuv lang="pl">
@@ -8586,6 +8682,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Argh!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Arrived at Skull Bay and dropped anchor. Putra is going to make mac and cheese for dinner.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Dotarliśmy do Zatoki Czaszki i rzuciliśmy kotwicę. Putra zrobi makaron z serem na kolację.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9670,6 +9774,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Attacked and scuttled a mail ship today. Good fun! The sea was covered with tatters of holiday gift wrapping and it looked like an exploded clown.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Zaatakowaliśmy i zatopiliśmy dziś statek pocztowy. Dobra zabawa! Morze było pokryte strzępami świątecznego opakowania z prezentów i wyglądało jak eksplodujący klaun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Attempt to pet Scruffles</seg>
       </tuv>
       <tuv lang="pl">
@@ -9690,6 +9802,22 @@
       </tuv>
       <tuv lang="pl">
         <seg>Przeprowadź audyt dokumentacji finansowej Stana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>August 1</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>1 sierpnia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>August 3</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>3 sierpnia</seg>
       </tuv>
     </tu>
     <tu>
@@ -11350,6 +11478,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Brought back fond memories, but I seem to have forgotten the name of the clown. Note to self: do more memory exercises.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Przywołało to miłe wspomnienia, ale wydaje mi się, że zapomniałem imienia klauna. Uwaga dla siebie: wykonywać więcej ćwiczeń pamięciowych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Browse the box of maps</seg>
       </tuv>
       <tuv lang="pl">
@@ -11402,6 +11538,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Zbuduj ognisko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bundled up and went up on the deck to do some more star charts. Got a good look at The Grog Mug!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Spakowałem się i wyszedłem na pokład, żeby narysować jeszcze kilka map nieba. Kubek Grogu był dziś piękny!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14726,6 +14870,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crazy times tonight. Crew had a “What is your most embarrassing Guybrush story” game of charades around the big pot.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Dzisiaj była szalona noc. Załoga miała grę w szarady "Jaka jest twoja najbardziej żenująca historia, Guybrush" wokół wielkiego kotła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Creamy...</seg>
       </tuv>
       <tuv lang="pl">
@@ -14926,6 +15078,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Damn Guybrush. The day will come and the end of thee is foretold.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Przeklęty Guybrush. Nadejdzie dzień i przepowiedziany jest twój koniec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Damn straight!</seg>
       </tuv>
       <tuv lang="pl">
@@ -15122,6 +15282,62 @@
       </tuv>
       <tuv lang="pl">
         <seg>Globusy Śmierci! Nowy niesamowity cudowny owoc! Hm, odrasta włos, usuwa tłuszcz z brzucha... o, leczy też szkorbut! Fantastycznie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>December 12</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>12 grudnia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>December 19</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>19 grudnia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>December 20</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>20 grudnia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>December 25</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>25 grudnia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>December 4</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>4 grudnia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Decided to get myself a new catch phrase for Christmas: “%CATCH_PHRASE2%”</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Postanowiłem zafundować sobie nowe powiedzonko na Boże Narodzenie: “%CATCH_PHRASE2%”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Decided to revise my catchphrase to “Threepwood's bane!” Short and sweet. I like it.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Postanowiłem zmienić moje powiedzenie na "Zguba Threewooda"! Krótkie i słodkie. Podoba mi się</seg>
       </tuv>
     </tu>
     <tu>
@@ -17154,6 +17370,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Spokojnie, tygrysie. Postaraj się nie ślinić w taką pogodę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Easy to outrun and lob voodoo cannonballs at.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Łatwo go wyprzedzić i obrzucić kulami armatnimi voodoo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19294,6 +19518,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>February 1</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>1 lutego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>February 14</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>14 lutego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>February 17</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>17 lutego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>February 2</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>2 lutego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Feed crackers to the green parrot</seg>
       </tuv>
       <tuv lang="pl">
@@ -20442,6 +20698,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Zapomniałeś daty?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Forgot to mention crew threw me a birthday party the day after we got to Skull Bay.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Zapomniałem wspomnieć, że załoga urządziła mi przyjęcie urodzinowe dzień po tym, jak dotarliśmy do Zatoki Czaszki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23414,6 +23678,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Guybrush keeps popping into my life when I least expect it. I rue the day when I first went up against him years ago after he ruined the wedding to my true love, Elaine.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Guybrush ciągle pojawia się w moim życiu, kiedy najmniej się tego spodziewam. Żałuję dnia, kiedy po raz pierwszy stanąłem przeciwko niemu lata temu, po tym jak zrujnował ślub mojej prawdziwej miłości, Elaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Guybrush often tries to distract people with the following:	¡Madre de Dios! ¡Es el Pollo Diablo!	I am Murray, the invincible demonic skull!	I'm selling these fine leather jackets.	*Look behind you, a three headed monkey!</seg>
       </tuv>
       <tuv lang="pl">
@@ -23574,6 +23846,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ha ha ha. Crack myself up.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Ha, ha, ha. Rozerwałem się.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ha ha!</seg>
       </tuv>
       <tuv lang="pl">
@@ -23690,6 +23970,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Odetnij gałąź</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Had a long conversation with Rose as we roasted s'mores over burning bodies on the beach of Terror Island (I love that place).</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Odbyłem długą rozmowę z Różą, kiedy piekliśmy pianki nad płonącymi zwłokami na plaży Wyspy Grozy (uwielbiam to miejsce).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24682,6 +24970,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Pomocny znak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Her point of view is that the more I dismiss Guybrush as a simple irritant, the more it's obvious that he and I are truly nemeses.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Jej punkt widzenia jest taki, że im bardziej odrzucam Guybrusha jako zwykłego irytującego owada, tym bardziej oczywiste staje się, że on i ja jesteśmy prawdziwymi wrogami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25818,6 +26114,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Hmph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ho ho ho.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Ho ho ho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31302,6 +31606,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>I keelhauled them all.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Wszystkich przeciągnąłem pod kilem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>I keep losing swordfights.</seg>
       </tuv>
       <tuv lang="pl">
@@ -36406,6 +36718,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>I'm going to write in it every day.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Będę w nim pisać codziennie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>I'm going-</seg>
       </tuv>
       <tuv lang="pl">
@@ -37054,6 +37374,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>I'm really enjoying this new diary that Cutthroat Kelly got me. I'm impressed that they would bestow this gift on me, given I was the one that cut their throat.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Naprawdę podoba mi się ten nowy dziennik, który dała mi Kelly Cutthroat. Jestem pod wrażeniem, że obdarzyła mnie tym darem, biorąc pod uwagę, że to ja poderżnąłem jej gardło.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>I'm really more of a watcher than a helper.</seg>
       </tuv>
       <tuv lang="pl">
@@ -37694,6 +38022,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>I've decided to give up terrorizing the seas. When we get to port, I'm going to look into some charity work, dig up my plunder, and pay restitution to my victims. Top of my list is apologizing to Guybrush and giving him a big hug.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Postanowiłem zrezygnować z terroryzowania mórz. Kiedy dopłyniemy do portu, zajmę się jakąś działalnością charytatywną, wykopię łupy i wypłacę zadośćuczynienie moim ofiarom. Na szczycie mojej listy są przeprosiny Guybrusha i uściskanie go.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>I've decided to reshape the government as a worker-owned collective.</seg>
       </tuv>
       <tuv lang="pl">
@@ -38278,6 +38614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Idea for a new catchphrase: “%CATCH_PHRASE3%” Not sure about this one yet, will have to sleep on it before I put it into action.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Pomysł na nowe powiedzonko: “%CATCH_PHRASE3%” Nie jestem jeszcze pewien co do niego, będę musiał się z tym przespać zanim wprowadzę to w życie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Identify the small box</seg>
       </tuv>
       <tuv lang="pl">
@@ -38314,6 +38658,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Jeśli zmyję tłuszcz, nie będę mógł stąd wyjść.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>If I didn't know better I'd say she was underperforming on purpose.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Spodziewałem się trochę więcej po naszej nowej kucharce...</seg>
       </tuv>
     </tu>
     <tu>
@@ -39514,6 +39866,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Do środka statku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Iron Rose called my catchphrase “tired” this morning. Lashed her to the bowsprit, but have decided to give “By my bristling beard!” a try.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Żelazna Róża nazwała dziś rano moje powiedzenie "męczącym". Przymocowałem ją do bukszprytu, ale postanowiłem spróbować “Przez moją szczeciniastą brodę”!</seg>
       </tuv>
     </tu>
     <tu>
@@ -43726,6 +44086,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>It's the 5th of June.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Jest 5 czerwca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>It's the Contest of Intelligence. Not the Contest of Algebra.</seg>
       </tuv>
       <tuv lang="pl">
@@ -44206,6 +44574,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>January 12</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>12 stycznia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>January 5</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>5 stycznia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>January 9</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>9 stycznia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Japanese</seg>
       </tuv>
       <tuv lang="pl">
@@ -44294,6 +44686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>July 9</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>9 lipca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jump into the water</seg>
       </tuv>
       <tuv lang="pl">
@@ -44314,6 +44714,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>18 czerwca, 2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>June 5</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>5 czerwca</seg>
       </tuv>
     </tu>
     <tu>
@@ -44386,6 +44794,22 @@
       </tuv>
       <tuv lang="pl">
         <seg>Po prostu przynieś mi to, co gubernator podała mi w zeszłym tygodniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Just came up with a doozie of an insult (he he, I crack myself up) and sent Guybrush to his death.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Wymyśliłem przezabawną zniewagę (he, he, zabawny jestem) i wyślę Guybrusha na śmierć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Just crossed the 19th parallel on our way to terrorize Brrr Muda. Ran into a pesky customs ship.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Właśnie przekroczyliśmy 19 równoleżnik w drodze do terroryzowania Brrr Mud. Wpadłem na kłopotliwy statek celników.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47390,6 +47814,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Made port at Mêlée. Townfolk surprisingly un-fazed by the presence of LeShip. Miss the old days! Note to self: destroy a few buildings with cannon fire on next visit.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Przybiłem do portu Wyspy Szpady. Mieszkańcy miasta są zaskakująco niewzruszeni obecnością LeShip. Tęsknie za starymi czasami! Uwaga dla siebie: zniszczyć kilka budynków ogniem armatnim przy następnej wizycie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Madison is missing a skull for her potion, maybe there's a way to get one over to them.</seg>
       </tuv>
       <tuv lang="pl">
@@ -47550,6 +47982,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Making a list of all the reasons I hate Guybrush Threepwood.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Robię listę wszystkich powodów, dla których nienawidzę Guybrusha Threepwooda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Making up “trials” for each other and writing memoirs that no one will read.</seg>
       </tuv>
       <tuv lang="pl">
@@ -47590,10 +48030,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Map to The Secret arrived today! Security measures do not seem to be working, but now that it's here on LeShip, it can't possibly fall into the wrong hands anyway. I should have had Wally use my personal cypher, but he wanted to bind it tighter to me. Will have a word with that sniveling little mapmaker about it once The Secret is recovered.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Mapa do Tajemnicy dotarła dzisiaj! Wydaje się, że środki bezpieczeństwa nie działają, ale teraz, kiedy jest już na LeShip, i tak nie może wpaść w niepowołane ręce. Powinienem był powiedzieć Wally'emu, żeby użył mojego osobistego szyfru, ale on chciał ją mocniej ze mną związać. Porozmawiam o tym z tym pochlipującym, małym twórcą map, kiedy Tajemnica zostanie odzyskana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Maps!</seg>
       </tuv>
       <tuv lang="pl">
         <seg>Mapy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>March 12</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>12 marca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>March 30</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>30 marca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>March 9</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>9 marca</seg>
       </tuv>
     </tu>
     <tu>
@@ -47634,6 +48106,46 @@
       </tuv>
       <tuv lang="pl">
         <seg>Opanowanie szermierki było bardziej kwestią sprytu niż zręczności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>May 10</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>10 maja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>May 14</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>14 maja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>May 24</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>24 maja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>May 4</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>4 maja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>May 8</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>8 maja</seg>
       </tuv>
     </tu>
     <tu>
@@ -49694,6 +50206,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>New crew keeps asking why I hate Guybrush Threepwood so much. I can't point to one thing with Guybrush. It's an endless list of little annoying things with him.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Nowa załoga wciąż pyta, dlaczego tak bardzo nienawidzę Guybrusha Threepwooda. Nie mogę wskazać jednej rzeczy w Guybrushu. To niekończąca się lista małych irytujących rzeczy z nim związanych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>New decor</seg>
       </tuv>
       <tuv lang="pl">
@@ -51742,6 +52262,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Note to self - send my condolences to Elaine.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Uwaga dla siebie: przesłać moje kondolencje Elaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Noted!</seg>
       </tuv>
       <tuv lang="pl">
@@ -51842,6 +52370,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Nic. Po prostu wydajesz się inny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>November 30</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>30 listopada</seg>
       </tuv>
     </tu>
     <tu>
@@ -52690,6 +53226,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Och tato. Nie zginąłeś. Skończ z wygłupami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Oh Elaine. All these long years I still yearn for the warmth of your embrace.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Och Elaine. Przez te wszystkie długie lata wciąż tęsknię za ciepłem twojego uścisku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55166,6 +55710,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>P.S. Keel needed cleaning anyway.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>P.S. Kil i tak wymagał czyszczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pachyderms.</seg>
       </tuv>
       <tuv lang="pl">
@@ -56986,6 +57538,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Problem rozwiązany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Problem with new catchphrase: hearing Threepwood's name too often. I'm going back to the one I had on the 17th.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Problem z nowym powiedzonkiem: zbyt często słyszy się nazwisko Threepwooda. Wracam do tego, co miałem 17-go.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59642,6 +60202,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Szanty?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Seagulls circling the ship again today! Normally, giant rats with wings would be my sort of thing, but they try to steal my morning kippers and they're whitewashing the deck to the point where none of us can keep our footing. Thinking of conjuring a permanent storm to keep the blasted things at bay.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Mewy znów krążą dziś nad statkiem! Normalnie, gigantyczne szczury ze skrzydłami byłyby moim gatunkiem, ale próbują ukraść mi poranne śledzie i wybielają pokład do tego stopnia, że nikt z nas nie może utrzymać się na nogach. Myślę o wywołaniu permanentnej burzy, by powstrzymać te przeklęte stwory.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65822,6 +66390,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tested out new punishment techniques this afternoon. Whaling hooks were highly effective! Will need to replace a few crew members. Only remembered afterwards Rose's recommendation not to use the ship's surgeon as one of the test subjects. Will schedule her for an extra few lashes for letting me forget.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Dziś po południu przetestowałem nowe techniki karania. Haki wielorybnicze były bardzo skuteczne! Będę musiał wymienić kilku członków załogi. Dopiero później przypomniałem sobie zalecenie Róży, aby nie wykorzystywać chirurga okrętowego jako jednego z obiektów testowych. Zaplanuję jej kilka dodatkowych batów za to, że pozwoliła mi zapomnieć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Testing by⬅︎Kelly Simon, Paulo Trindade, Matthew Mortimer</seg>
       </tuv>
       <tuv lang="pl">
@@ -69614,6 +70190,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The new main sail looks too nice. I'm sending a deck hand up to rip and shred it, so it has more of an evil feel.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Nowy żagiel główny wygląda aż za ładnie. Wysłałem marynarza, żeby go rozerwał na strzępy, żeby wydzielał jeszcze bardziej złą aurę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The new pirate leaders were focused on sacking and pillaging. But plunder stats aren’t everything.</seg>
       </tuv>
       <tuv lang="pl">
@@ -70226,6 +70810,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Numery seryjne już dawno zardzewiały.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The ship is a mess. I'm instituting a new required swabbie report.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Na statku panuje bałagan. Wprowadzam nowy wymagany raport chłopca okrętowego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71162,6 +71754,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Ale były dwa problemy. Potrzebowałem mopa, żeby dostać u nich pracę, a wiedzieli kim jestem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>There will be celebration this eve.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>W tę wigilię odbędzie się świętowanie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72402,6 +73002,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Pomyśl o fałszywej monecie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Thinking more about why I hate Guybrush. He seems to think we're nemeses. Mortal enemies locked in a forever combat.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Myśląc bardziej o tym, dlaczego nienawidzę Guybrusha. Wydaje mu się, że jesteśmy wrogami. Śmiertelni wrogowie zamknięci w wiecznej walce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73662,6 +74270,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Time flies when you're having fun. Sailing. Pillaging. Terrorizing. Etc.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Czas leci kiedy dobrze się bawisz. Żeglujesz. Plądrujesz. Terroryzujesz. Etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Time is up. I'll take your papers.</seg>
       </tuv>
       <tuv lang="pl">
@@ -74502,6 +75118,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Truth is, I could care less about him. It's like the mosquito thinking we're nemeses, when the mosquito is just an annoying insect to be squashed.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Prawda jest taka, że nie obchodzi mnie on. To jak komar myślący, że jesteśmy nemezis, podczas gdy komar jest tylko irytującym owadem, którego trzeba zgnieść.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Truth or dare?</seg>
       </tuv>
       <tuv lang="pl">
@@ -75090,6 +75714,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Try visiting the adrift ship at the bottom of the map for a clue to Bella Fisher's whereabouts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Trying out a new catchphrase, “%CATCH_PHRASE1%” This is much better than my last one.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Wypróbowałem nowe powiedzonko, “%CATCH_PHRASE1%”. To jest o wiele lepsze niż moje ostatnie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82682,6 +83314,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Karny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yancy and Mad Flora mentioned Guybrush at dinner. Will need to hire replacements. Maybe at Mêlée, already stopping there for voodoo supplies.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Yancy i Szalona Flora wspominali o Guybrushu przy kolacji. Trzeba będzie zatrudnić zastępców. Może na Wyspie Szpady, kiedy zatrzymamy się po zapasy voodoo</seg>
       </tuv>
     </tu>
     <tu>

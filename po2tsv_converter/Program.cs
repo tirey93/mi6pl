@@ -15,6 +15,8 @@ var serviceProvider = new ServiceCollection()
     .AddTransient<MainFromPoCommand>()
     .AddTransient<CollectableToPoCommand>()
     .AddTransient<CollectableFromPoCommand>()
+    .AddTransient<LeDiaryToPoCommand>()
+    .AddTransient<LeDiaryFromPoCommand>()
     .BuildServiceProvider();
 
 var options = serviceProvider.GetService<IOptions<MainSettings>>();
@@ -41,6 +43,16 @@ try
             var collectableFromPoCommand = serviceProvider.GetService<CollectableFromPoCommand>();
             if (!collectableFromPoCommand.HasErrors)
                 collectableFromPoCommand.Execute();
+            break;
+        case Mode.LeDiaryToPo:
+            var leDiaryToPoCommand = serviceProvider.GetService<LeDiaryToPoCommand>();
+            if (!leDiaryToPoCommand.HasErrors)
+                leDiaryToPoCommand.Execute();
+            break;
+        case Mode.LeDiaryFromPo:
+            var leDiaryFromPoCommand = serviceProvider.GetService<LeDiaryFromPoCommand>();
+            if (!leDiaryFromPoCommand.HasErrors)
+                leDiaryFromPoCommand.Execute();
             break;
         default:
             break;

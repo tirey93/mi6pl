@@ -1,0 +1,568 @@
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "May 24"
+msgstr "24 maja"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "I'm really enjoying this new diary that Cutthroat Kelly got me. I'm impressed that they would bestow this gift on me, given I was the one that cut their throat."
+msgstr "Naprawdę podoba mi się ten nowy dziennik, który dała mi Kelly Cutthroat. Jestem pod wrażeniem, że obdarzyła mnie tym darem, biorąc pod uwagę, że to ja poderżnąłem jej gardło."
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "I'm going to write in it every day."
+msgstr "Będę w nim pisać codziennie."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "June 5"
+msgstr "5 czerwca"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "It's the 5th of June."
+msgstr "Jest 5 czerwca."
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Time flies when you're having fun. Sailing. Pillaging. Terrorizing. Etc."
+msgstr "Czas leci kiedy dobrze się bawisz. Żeglujesz. Plądrujesz. Terroryzujesz. Etc."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "July 9"
+msgstr "9 lipca"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Crazy times tonight. Crew had a “What is your most embarrassing Guybrush story” game of charades around the big pot."
+msgstr "Dzisiaj była szalona noc. Załoga miała grę w szarady \"Jaka jest twoja najbardziej żenująca historia, Guybrush\" wokół wielkiego kotła."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "August 1"
+msgstr "1 sierpnia"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Just crossed the 19th parallel on our way to terrorize Brrr Muda. Ran into a pesky customs ship."
+msgstr "Właśnie przekroczyliśmy 19 równoleżnik w drodze do terroryzowania Brrr Mud. Wpadłem na kłopotliwy statek celników."
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Easy to outrun and lob voodoo cannonballs at."
+msgstr "Łatwo go wyprzedzić i obrzucić kulami armatnimi voodoo."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "August 3"
+msgstr "3 sierpnia"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Bundled up and went up on the deck to do some more star charts. Got a good look at The Grog Mug!"
+msgstr "Spakowałem się i wyszedłem na pokład, żeby narysować jeszcze kilka map nieba. Kubek Grogu był dziś piękny!"
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "November 30"
+msgstr "30 listopada"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Arrived at Skull Bay and dropped anchor. Putra is going to make mac and cheese for dinner."
+msgstr "Dotarliśmy do Zatoki Czaszki i rzuciliśmy kotwicę. Putra zrobi makaron z serem na kolację."
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "If I didn't know better I'd say she was underperforming on purpose."
+msgstr "Spodziewałem się trochę więcej po naszej nowej kucharce..."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "December 4"
+msgstr "4 grudnia"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Attacked and scuttled a mail ship today. Good fun! The sea was covered with tatters of holiday gift wrapping and it looked like an exploded clown."
+msgstr "Zaatakowaliśmy i zatopiliśmy dziś statek pocztowy. Dobra zabawa! Morze było pokryte strzępami świątecznego opakowania z prezentów i wyglądało jak eksplodujący klaun."
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Brought back fond memories, but I seem to have forgotten the name of the clown. Note to self: do more memory exercises."
+msgstr "Przywołało to miłe wspomnienia, ale wydaje mi się, że zapomniałem imienia klauna. Uwaga dla siebie: wykonywać więcej ćwiczeń pamięciowych."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "December 12"
+msgstr "12 grudnia"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Trying out a new catchphrase, “%CATCH_PHRASE1%” This is much better than my last one."
+msgstr "Wypróbowałem nowe powiedzonko, “%CATCH_PHRASE1%”. To jest o wiele lepsze niż moje ostatnie."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "December 19"
+msgstr "19 grudnia"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "The new main sail looks too nice. I'm sending a deck hand up to rip and shred it, so it has more of an evil feel."
+msgstr "Nowy żagiel główny wygląda aż za ładnie. Wysłałem marynarza, żeby go rozerwał na strzępy, żeby wydzielał jeszcze bardziej złą aurę."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "December 20"
+msgstr "20 grudnia"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "New crew keeps asking why I hate Guybrush Threepwood so much. I can't point to one thing with Guybrush. It's an endless list of little annoying things with him."
+msgstr "Nowa załoga wciąż pyta, dlaczego tak bardzo nienawidzę Guybrusha Threepwooda. Nie mogę wskazać jednej rzeczy w Guybrushu. To niekończąca się lista małych irytujących rzeczy z nim związanych."
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Guybrush keeps popping into my life when I least expect it. I rue the day when I first went up against him years ago after he ruined the wedding to my true love, Elaine."
+msgstr "Guybrush ciągle pojawia się w moim życiu, kiedy najmniej się tego spodziewam. Żałuję dnia, kiedy po raz pierwszy stanąłem przeciwko niemu lata temu, po tym jak zrujnował ślub mojej prawdziwej miłości, Elaine."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "December 25"
+msgstr "25 grudnia"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Decided to get myself a new catch phrase for Christmas: “%CATCH_PHRASE2%”"
+msgstr "Postanowiłem zafundować sobie nowe powiedzonko na Boże Narodzenie: “%CATCH_PHRASE2%”."
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Ho ho ho."
+msgstr "Ho ho ho."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "January 5"
+msgstr "5 stycznia"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Forgot to mention crew threw me a birthday party the day after we got to Skull Bay."
+msgstr "Zapomniałem wspomnieć, że załoga urządziła mi przyjęcie urodzinowe dzień po tym, jak dotarliśmy do Zatoki Czaszki."
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "I keelhauled them all."
+msgstr "Wszystkich przeciągnąłem pod kilem."
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "P.S. Keel needed cleaning anyway."
+msgstr "P.S. Kil i tak wymagał czyszczenia."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "January 9"
+msgstr "9 stycznia"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Thinking more about why I hate Guybrush. He seems to think we're nemeses. Mortal enemies locked in a forever combat."
+msgstr "Myśląc bardziej o tym, dlaczego nienawidzę Guybrusha. Wydaje mu się, że jesteśmy wrogami. Śmiertelni wrogowie zamknięci w wiecznej walce."
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Truth is, I could care less about him. It's like the mosquito thinking we're nemeses, when the mosquito is just an annoying insect to be squashed."
+msgstr "Prawda jest taka, że nie obchodzi mnie on. To jak komar myślący, że jesteśmy nemezis, podczas gdy komar jest tylko irytującym owadem, którego trzeba zgnieść."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "January 12"
+msgstr "12 stycznia"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Iron Rose called my catchphrase “tired” this morning. Lashed her to the bowsprit, but have decided to give “By my bristling beard!” a try."
+msgstr "Żelazna Róża nazwała dziś rano moje powiedzenie \"męczącym\". Przymocowałem ją do bukszprytu, ale postanowiłem spróbować “Przez moją szczeciniastą brodę”!"
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "February 1"
+msgstr "1 lutego"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Had a long conversation with Rose as we roasted s'mores over burning bodies on the beach of Terror Island (I love that place)."
+msgstr "Odbyłem długą rozmowę z Różą, kiedy piekliśmy pianki nad płonącymi zwłokami na plaży Wyspy Grozy (uwielbiam to miejsce)."
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Her point of view is that the more I dismiss Guybrush as a simple irritant, the more it's obvious that he and I are truly nemeses."
+msgstr "Jej punkt widzenia jest taki, że im bardziej odrzucam Guybrusha jako zwykłego irytującego owada, tym bardziej oczywiste staje się, że on i ja jesteśmy prawdziwymi wrogami."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "February 2"
+msgstr "2 lutego"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Making a list of all the reasons I hate Guybrush Threepwood."
+msgstr "Robię listę wszystkich powodów, dla których nienawidzę Guybrusha Threepwooda."
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "1) Stupid name. Who names their kid Guybrush.$"
+msgstr "1) Głupie imię. Kto nazywa swoje dziecko Guybrush.$"
+
+msgctxt ""
+msgid "2) Thinks he's a mighty pirate when he's neither.$"
+msgstr "2) Myśli, że jest potężnym piratem, kiedy nim nie jest.$"
+
+msgctxt ""
+msgid "3) Always trying to hunt for the same treasure I am.$"
+msgstr "3) Zawsze próbuję polować na ten sam skarb co ja.$"
+
+msgctxt ""
+msgid "4) Stole Elaine from me.$"
+msgstr "4) Ukradł mi Elaine.$"
+
+msgctxt ""
+msgid "5) He gets much better press than I do.$"
+msgstr "5) Ma o wiele lepszą prasę niż ja.$"
+
+msgctxt ""
+msgid "6) Only interested in the glamor of piracy. I walk the walk. He just talks.$"
+msgstr "6) Interesuje go tylko urok piractwa. Chodzi i chodzi. On tylko mówi.$"
+
+msgctxt ""
+msgid "7) My ship is a lot better than his."
+msgstr "7) Mój statek jest o wiele lepszy niż jego."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "February 14"
+msgstr "14 lutego"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Oh Elaine. All these long years I still yearn for the warmth of your embrace."
+msgstr "Och Elaine. Przez te wszystkie długie lata wciąż tęsknię za ciepłem twojego uścisku."
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Damn Guybrush. The day will come and the end of thee is foretold."
+msgstr "Przeklęty Guybrush. Nadejdzie dzień i przepowiedziany jest twój koniec."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "February 17"
+msgstr "17 lutego"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Idea for a new catchphrase: “%CATCH_PHRASE3%” Not sure about this one yet, will have to sleep on it before I put it into action."
+msgstr "Pomysł na nowe powiedzonko: “%CATCH_PHRASE3%” Nie jestem jeszcze pewien co do niego, będę musiał się z tym przespać zanim wprowadzę to w życie."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "March 9"
+msgstr "9 marca"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Seagulls circling the ship again today! Normally, giant rats with wings would be my sort of thing, but they try to steal my morning kippers and they're whitewashing the deck to the point where none of us can keep our footing. Thinking of conjuring a permanent storm to keep the blasted things at bay."
+msgstr "Mewy znów krążą dziś nad statkiem! Normalnie, gigantyczne szczury ze skrzydłami byłyby moim gatunkiem, ale próbują ukraść mi poranne śledzie i wybielają pokład do tego stopnia, że nikt z nas nie może utrzymać się na nogach. Myślę o wywołaniu permanentnej burzy, by powstrzymać te przeklęte stwory."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "March 12"
+msgstr "12 marca"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "The ship is a mess. I'm instituting a new required swabbie report."
+msgstr "Na statku panuje bałagan. Wprowadzam nowy wymagany raport chłopca okrętowego."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "March 30"
+msgstr "30 marca"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Tested out new punishment techniques this afternoon. Whaling hooks were highly effective! Will need to replace a few crew members. Only remembered afterwards Rose's recommendation not to use the ship's surgeon as one of the test subjects. Will schedule her for an extra few lashes for letting me forget."
+msgstr "Dziś po południu przetestowałem nowe techniki karania. Haki wielorybnicze były bardzo skuteczne! Będę musiał wymienić kilku członków załogi. Dopiero później przypomniałem sobie zalecenie Róży, aby nie wykorzystywać chirurga okrętowego jako jednego z obiektów testowych. Zaplanuję jej kilka dodatkowych batów za to, że pozwoliła mi zapomnieć."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "April 1"
+msgstr "1 kwietnia"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "I've decided to give up terrorizing the seas. When we get to port, I'm going to look into some charity work, dig up my plunder, and pay restitution to my victims. Top of my list is apologizing to Guybrush and giving him a big hug."
+msgstr "Postanowiłem zrezygnować z terroryzowania mórz. Kiedy dopłyniemy do portu, zajmę się jakąś działalnością charytatywną, wykopię łupy i wypłacę zadośćuczynienie moim ofiarom. Na szczycie mojej listy są przeprosiny Guybrusha i uściskanie go."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "April 2"
+msgstr "2 kwietnia"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Ha ha ha. Crack myself up."
+msgstr "Ha, ha, ha. Rozerwałem się."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "April 9"
+msgstr "9 kwietnia"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Decided to revise my catchphrase to “Threepwood's bane!” Short and sweet. I like it."
+msgstr "Postanowiłem zmienić moje powiedzenie na \"Zguba Threewooda\"! Krótkie i słodkie. Podoba mi się"
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "April 10"
+msgstr "10 kwietnia"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Problem with new catchphrase: hearing Threepwood's name too often. I'm going back to the one I had on the 17th."
+msgstr "Problem z nowym powiedzonkiem: zbyt często słyszy się nazwisko Threepwooda. Wracam do tego, co miałem 17-go."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "May 4"
+msgstr "4 maja"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Map to The Secret arrived today! Security measures do not seem to be working, but now that it's here on LeShip, it can't possibly fall into the wrong hands anyway. I should have had Wally use my personal cypher, but he wanted to bind it tighter to me. Will have a word with that sniveling little mapmaker about it once The Secret is recovered."
+msgstr "Mapa do Tajemnicy dotarła dzisiaj! Wydaje się, że środki bezpieczeństwa nie działają, ale teraz, kiedy jest już na LeShip, i tak nie może wpaść w niepowołane ręce. Powinienem był powiedzieć Wally'emu, żeby użył mojego osobistego szyfru, ale on chciał ją mocniej ze mną związać. Porozmawiam o tym z tym pochlipującym, małym twórcą map, kiedy Tajemnica zostanie odzyskana."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "May 8"
+msgstr "8 maja"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Yancy and Mad Flora mentioned Guybrush at dinner. Will need to hire replacements. Maybe at Mêlée, already stopping there for voodoo supplies."
+msgstr "Yancy i Szalona Flora wspominali o Guybrushu przy kolacji. Trzeba będzie zatrudnić zastępców. Może na Wyspie Szpady, kiedy zatrzymamy się po zapasy voodoo"
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "May 10"
+msgstr "10 maja"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Made port at Mêlée. Townfolk surprisingly un-fazed by the presence of LeShip. Miss the old days! Note to self: destroy a few buildings with cannon fire on next visit."
+msgstr "Przybiłem do portu Wyspy Szpady. Mieszkańcy miasta są zaskakująco niewzruszeni obecnością LeShip. Tęsknie za starymi czasami! Uwaga dla siebie: zniszczyć kilka budynków ogniem armatnim przy następnej wizycie."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
+msgctxt ""
+msgid "May 14"
+msgstr "14 maja"
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Just came up with a doozie of an insult (he he, I crack myself up) and sent Guybrush to his death."
+msgstr "Wymyśliłem przezabawną zniewagę (he, he, zabawny jestem) i wyślę Guybrusha na śmierć."
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "There will be celebration this eve."
+msgstr "W tę wigilię odbędzie się świętowanie."
+
+msgctxt ""
+msgid ""
+
+msgctxt ""
+msgid "Note to self - send my condolences to Elaine."
+msgstr "Uwaga dla siebie: przesłać moje kondolencje Elaine."
+
+msgctxt ""
+msgid "----"
+msgstr "----"
+
