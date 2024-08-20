@@ -9,22 +9,19 @@ using System.Threading.Tasks;
 
 namespace po2tsv_converter.Commands
 {
-    public class FromPoCommand
+    public class CollectableFromPoCommand
     {
         private readonly MainSettings _settings;
-        private readonly List<string> _engLines;
-        private readonly Dictionary<string, string> _polLines;
+        private readonly List<string> _polLines;
 
         public bool HasErrors { get; set; }
 
-        public FromPoCommand(IOptions<MainSettings> options)
+        public CollectableFromPoCommand(IOptions<MainSettings> options)
         {
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
             _settings = options.Value;
 
             var errors = string.Empty;
-            if (!File.Exists(_settings.EngTsvPath))
-                errors += "Error: EngTsvPath was not found in given path\n";
             if (!File.Exists(_settings.PoFilePath))
                 errors += "Error: PoFilePath was not found in given path\n";
             if (!string.IsNullOrEmpty(errors))
@@ -37,9 +34,8 @@ namespace po2tsv_converter.Commands
             string file = File.ReadAllText(_settings.PoFilePath);
             var splitted = file.Split("msgctxt");
 
-            _engLines = [..linesEng];
 
-            _polLines = new Dictionary<string, string>();
+            _polLines = new List<string>();
 
             foreach (var text in splitted)
             {
@@ -50,10 +46,9 @@ namespace po2tsv_converter.Commands
                 if (!splitter.IsValid)
                     continue;
 
-                var markup = splitter.Markup;
                 var plText = splitter.PlText;
 
-                _polLines.Add(markup, plText);
+                _polLines.Add(plText);
             }
         }
         
@@ -61,17 +56,9 @@ namespace po2tsv_converter.Commands
         {
             var result = new StringBuilder();
 
-            var firstLineSplitted = _engLines[0].Split("\t");
-            if (!string.IsNullOrEmpty(_settings.LangId))
-                firstLineSplitted[2] = _settings.LangId;
-            result.AppendLine(string.Join("\t", firstLineSplitted));
-
-            foreach (var engLine in _engLines[1..])
+            foreach (var engLine in _polLines)
             {
-                var splitted = engLine.Split('\t');
-                splitted[2] = _polLines[$"{splitted[1]}_{splitted[0]}"];
-
-                result.AppendLine(string.Join("\t", splitted));
+                result.AppendLine($"COMMON\t{engLine}");
             }
 
             File.WriteAllText(_settings.PolTsvPath, result.ToString());

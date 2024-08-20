@@ -4,7 +4,7 @@ using System.Text;
 
 namespace po2tsv_converter.Commands
 {
-    public class ToPoCommand
+    public class MainToPoCommand
     {
         private readonly MainSettings _settings;
         private readonly Dictionary<string, string> _polLines;
@@ -12,7 +12,7 @@ namespace po2tsv_converter.Commands
 
         public bool HasErrors { get; set; }
 
-        public ToPoCommand(IOptions<MainSettings> options)
+        public MainToPoCommand(IOptions<MainSettings> options)
         {
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
             _settings = options.Value;

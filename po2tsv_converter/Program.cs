@@ -11,8 +11,10 @@ var configuration = new ConfigurationBuilder()
 var serviceProvider = new ServiceCollection()
 
     .Configure<MainSettings>(configuration.GetSection(nameof(MainSettings)))
-    .AddTransient<ToPoCommand>()
-    .AddTransient<FromPoCommand>()
+    .AddTransient<MainToPoCommand>()
+    .AddTransient<MainFromPoCommand>()
+    .AddTransient<CollectableToPoCommand>()
+    .AddTransient<CollectableFromPoCommand>()
     .BuildServiceProvider();
 
 var options = serviceProvider.GetService<IOptions<MainSettings>>();
@@ -20,15 +22,25 @@ try
 {
     switch (options.Value.Mode)
     {
-        case Mode.ToPo:
-            var toPoCommand = serviceProvider.GetService<ToPoCommand>();
-            if (!toPoCommand.HasErrors)
-                toPoCommand.Execute();
+        case Mode.MainToPo:
+            var mainToPoCommand = serviceProvider.GetService<MainToPoCommand>();
+            if (!mainToPoCommand.HasErrors)
+                mainToPoCommand.Execute();
             break;
-        case Mode.FromPo:
-            var fromPoCommand = serviceProvider.GetService<FromPoCommand>();
-            if (!fromPoCommand.HasErrors)
-                fromPoCommand.Execute();
+        case Mode.MainFromPo:
+            var mainFromPoCommand = serviceProvider.GetService<MainFromPoCommand>();
+            if (!mainFromPoCommand.HasErrors)
+                mainFromPoCommand.Execute();
+            break;
+        case Mode.CollectableToPo:
+            var collectableToPoCommand = serviceProvider.GetService<CollectableToPoCommand>();
+            if (!collectableToPoCommand.HasErrors)
+                collectableToPoCommand.Execute();
+            break;
+        case Mode.CollectableFromPo:
+            var collectableFromPoCommand = serviceProvider.GetService<CollectableFromPoCommand>();
+            if (!collectableFromPoCommand.HasErrors)
+                collectableFromPoCommand.Execute();
             break;
         default:
             break;

@@ -1,0 +1,680 @@
+msgctxt "COMMON"
+msgid "In the back of the Scumm Bar is...	The cellar	*The kitchen	A giant whale	A fishing trophy"
+msgstr "Na tyłach baru Scumm jest...	Piwnica	*Kuchnia	Olbrzymi wieloryb	Trofeum wędkarskie"
+
+msgctxt "COMMON"
+msgid "Morgan LeFlay first appeared in:	LeChuck's Revenge	Escape from Monkey Island	*Tales of Monkey Island	Secret of Monkey Island"
+msgstr "Morgan LeFlay po raz pierwszy pojawiła się w:	Zemsta LeChucka	Ucieczka z Wyspy Małp	*Opowieści Wyspy Małp	Tajemnica Wyspy Małp"
+
+msgctxt "COMMON"
+msgid "Who is the local expert on LOOM?	Apple Bob	The Lookout	*Cobb	Wally"
+msgstr "Kto jest lokalnym ekspertem od LOOM?	Wiszący Bob	Obserwator	*Cobb	Wally"
+
+msgctxt "COMMON"
+msgid "Which of these ingredients is not needed to get to Monkey Island?	Skull	*Yeast	Monkey blood	Cinnamon"
+msgstr "Który z tych składników nie jest potrzebny, aby dostać się na Wyspę Małp?	Czaszka	*Drożdże	Małpia krew	Cynamon"
+
+msgctxt "COMMON"
+msgid "Wally's shop is on:	High Street	*Low Street	A Street	A police watch list"
+msgstr "Sklep Wally'ego jest na:	Ulica Górna	*Ulica Dolna	Ulica	Liście obserwacyjnej policji"
+
+msgctxt "COMMON"
+msgid "The official name of the Voodoo Shop is...	*The International House of Mojo	The Voodoo Shop	Voodoo-N-More	The International House of Voodoo"
+msgstr "Oficjalna nazwa sklepu Voodoo to...	*Międzynarodowe Stowarzyszenie Mojo	Sklep Voodoo	Voodoo i więcej	 Międzynarodowe Stowarzyszenie Voodoo"
+
+msgctxt "COMMON"
+msgid "Which of these is not an island in Monkey Island 2?	Scabb Island	Booty Island	Dinky Island	*Reef Island"
+msgstr "Która z nich nie jest wyspą w Wyspa Małp 2?	Wyspa Parszywców	Wyspa Łupu	Wyspa Dinky 	*Wyspa Reef"
+
+msgctxt "COMMON"
+msgid "The game of Monkey Island used to be called...	Voyage to Monkey Island	*Mutiny on Monkey Island	The Pirates of Monkey Island	That Pirate Game"
+msgstr "Kiedyś gra Wyspa Małp nazywała się...	Wyprawa na Wyspę Małp	*Bunt na Wyspie Małp	Piraci z Wyspy Małp	To Piracka gra"
+
+msgctxt "COMMON"
+msgid "Which of these people were not swallowed by a giant manatee?	Coronado de Cava	*The Marquis De Singe	Morgan LeFlay	Murray"
+msgstr "Która z tych osób nie została połknięta przez gigantycznego manata?	Coronado de Cava	*Markiz De Singe	Morgan LeFlay	Murray"
+
+msgctxt "COMMON"
+msgid "Captain Kate Capsize...	*Was wrongly imprisoned on trumped up charges	Was made governor of Mêlée Island	Runs a used coffin store on Phatt Island	Doesn't appear in any Monkey Island game"
+msgstr "Kapitan Kate Capsize...	*Została niesłusznie uwięziona na podstawie zmyślonych zarzutów	Została gubernatorem Wyspy Szpady	Prowadzi sklep z używanymi trumnami na Wyspie Phatta	Nie pojawia się w żadnej grze Wyspy Małp"
+
+msgctxt "COMMON"
+msgid "Which of these ingredients is not required to make a voodoo doll?	Something of the Thread	Something of the Head	*Something of the Bread	Something of the Dead"
+msgstr "Który z tych składników nie jest wymagany do wykonania lalki voodoo?	Coś z Odzieży	Coś z głowy	*Coś z chleba	Coś z Trupa"
+
+msgctxt "COMMON"
+msgid "The Mad Monkey was...	*A sunken ship	A giant robotic monkey	The leader of the Pirates of Danjer Cove	LeChuck's pet chimp"
+msgstr "Szalona Małpa była...	*Zatopionym statkiem	Gigantyczną robotyczną małpą	Przywódcą Piratów z Zatoki Danjer	Zwierzątkiem szympansem LeChucka"
+
+msgctxt "COMMON"
+msgid "How many prisoners are in the Ice Quarry?	12	*21	16	None, there is no Ice Quarry"
+msgstr "Ilu więźniów jest w Lodowym Kamieniołomie?	12	*21	16	Żadnego, nie ma Lodowego Kamieniołomu"
+
+msgctxt "COMMON"
+msgid "Largo LaGrande's catchphrase was:	I'm steamin' weenies!	*Wherever you go, on sea or land, you can't ever hide, from Largo LaGrande!	Kiss the cook.	Hey, how'd old Pegbiter get loose?"
+msgstr "Hasłem Largo LaGrande było:	Parujące parówki!	*Gdziekolwiek się udasz, na morzu czy lądzie, nigdy nie ukryjesz się, przed Largo LaGrande!!	Całuj kucharza.	Hej, jak stary Drewnogryz się uwolnił?"
+
+msgctxt "COMMON"
+msgid "Guybrush often tries to distract people with the following:	¡Madre de Dios! ¡Es el Pollo Diablo!	I am Murray, the invincible demonic skull!	I'm selling these fine leather jackets.	*Look behind you, a three headed monkey!"
+msgstr "Guybrush często próbuje odwrócić uwagę ludzi w następujący sposób:	¡Madre de Dios! ¡Es el Pollo Diablo!	Jestem Murray, niezwyciężona demoniczna czaszka!	Sprzedaję te piękne skórzane kurtki.	*Spójrz za siebie, trzygłowa małpa!"
+
+msgctxt "COMMON"
+msgid "The Mêlée Island circus was run by:	The Gazpacho Guys	*The Fettucini Brothers	The Spaghetti Boys	The Men of Low Moral Fiber"
+msgstr "Cyrk na Wyspie Szpady był prowadzony przez:	Gości Gazpacho	*Braci Fettucini	Chłopców Spaghetti	Mężczyzn lekkich obyczajów"
+
+msgctxt "COMMON"
+msgid "In Monkey Island 2, who had a glass bottom ship?	Stan	*Kate Capsize	Guybrush	Captain Dread"
+msgstr "W Wyspa Małp 2, kto miał statek ze szklanym dnem?	Stan	*Kate Capsize	Guybrush	Kapitan Dred"
+
+msgctxt "COMMON"
+msgid "Scurvy Island is famous for:	A scurvy outbreak	*Limes	Its nightlife	Bella's fishing spot"
+msgstr "Wyspa Szkorbutu słynie z:	Epidemii szkorbutu	*Limonek	Z życia nocnego	Miejsca wędkowania Belli"
+
+msgctxt "COMMON"
+msgid "What word is the curator asking for when solving the crossword puzzle?	*Pirate	Cannon	Flag	Cutlass"
+msgstr "O jakie słowo pyta kustosz podczas rozwiązywania krzyżówki?	*Pirat	Działo	Flaga	Kordelas"
+
+msgctxt "COMMON"
+msgid "The Voodoo Lady's name is:	Voodoo Lady	*Corina	Beth	She has no name"
+msgstr "Imię Lady Voodoo to:	Lady Voodoo 	*Corina	Beth	Ona nie ma imienia"
+
+msgctxt "COMMON"
+msgid "Below the cliff on Monkey Island is:	Lava	A rubber tree	A wormhole into another game	*Pain, only pain"
+msgstr "Poniżej klifu na Wyspie Małp jest:	Lawa	Drzewo kauczukowe	Tunel czasoprzestrzenny do innej gry	*Ból, tylko ból"
+
+msgctxt "COMMON"
+msgid "Guybrush wears...	Briefs	*Boxers	Nothing	Unknown"
+msgstr "Guybrush nosi...	Majtki	*Bokserki	Nic	Nie wiadomo"
+
+msgctxt "COMMON"
+msgid "The original Monkey Island was first released on:	C64	*IBM PC	Amiga	Atari ST"
+msgstr "Oryginalna Wyspa Małp została wydana po raz pierwszy:	C64	*IBM PC	Amiga	Atari ST"
+
+msgctxt "COMMON"
+msgid "The development of the original Monkey Island took...	16 months	*9 months	22 months	A horrible toll on the team"
+msgstr "Rozwój oryginalnej Wyspy Małp trwał...	16 months	*9 months	22 months	Straszne straty w drużynie"
+
+msgctxt "COMMON"
+msgid "The first game to use the SCUMM system:	Monkey Island	LOOM	*Maniac Mansion	Day of the Tentacle"
+msgstr "Pierwsza gra, która korzystała z systemu SCUMM:	Monkey Island	LOOM	*Maniac Mansion	Day of the Tentacle"
+
+msgctxt "COMMON"
+msgid "Ron Gilbert started working at Lucasfilm Games in...	*1985	1989	1984	1986"
+msgstr "Ron Gilbert zaczął pracować w Lucasfilm Games...	*1985	1989	1984	1986"
+
+msgctxt "COMMON"
+msgid "David Fox started working at Lucasfilm Games in...	*1982	1983	1984	1985"
+msgstr "David Fox rozpoczął pracę w Lucasfilm Games...	*1982	1983	1984	1985"
+
+msgctxt "COMMON"
+msgid "Dave Grossman started working at Lucasfilm Games in...	*1989	1988	1990	1987"
+msgstr "Dave Grossman zaczął pracować w Lucasfilm Games...	*1989	1988	1990	1987"
+
+msgctxt "COMMON"
+msgid "How many pirates are in the Scumm Bar at the beginning?	*Eight	Five	Seven	Twelve"
+msgstr "Ilu piratów jest na początku w barze Scumm?	*Osiem	Pięć	Siedem	Dwanaście"
+
+msgctxt "COMMON"
+msgid "How many dead pirates are in the abandoned camp on Terror Island?	*Three	One	Four	Two"
+msgstr "Ilu martwych piratów jest w opuszczonym obozie na Wyspie Grozy?	*Trzech	Jeden	Czterech	Dwóch"
+
+msgctxt "COMMON"
+msgid "Herman Toothrot first appeared in:	*Secret of Monkey Island	LeChuck's Revenge	Curse of Monkey Island	Escape from Monkey Island"
+msgstr "Herman Toothrot po raz pierwszy pojawił się w:	*Tajemnica Wyspy Małp	Zemsta LeChucka	Klątwa Wyspy Małp	Ucieczka z Wyspy Małp"
+
+msgctxt "COMMON"
+msgid "What type of cake isn't Otis' favorite?	Chocolate cake	*Carrot cake	Crab cake	Vanilla cupcake"
+msgstr "Jakiego rodzaju ciasta nie lubi Otis?	Ciasto czekoladowe	*Ciasto marchewkowe	Ciasto krabowe	Babeczka waniliowa"
+
+msgctxt "COMMON"
+msgid "Blood Island is home to:	Stan's Kozy Krypts	*The Goodsoup Hotel	The Barbery Coast	Bloodnose the Pirate"
+msgstr "Krwawa Wyspa jest domem dla:	Krypta Stana	*Hotel Goodsoup	Wybrzeże Golarzy	Krwawonosego Pirata"
+
+msgctxt "COMMON"
+msgid "How many fish are in the fish school underneath LeChuck's ship when it's anchored?	*Eleven	Twelve	Four	Nine"
+msgstr "Ile ryb znajduje się w ławicy pod statkiem LeChucka, gdy jest on zakotwiczony?	*Jedenaście	Dwanaście	Cztery	Dziewięć"
+
+msgctxt "COMMON"
+msgid "How long can Guybrush hold his breath under water in this game?	*8 minutes	10 minutes	22 minutes	6 minutes"
+msgstr "Jak długo Guybrush może wstrzymywać oddech pod wodą w tej grze?	*8 minut	10 minut	22 minut	6 minut"
+
+msgctxt "COMMON"
+msgid "What bird is on the crest of Brrr Muda?	Eagle	*Parrot	Monkey	Snow owl"
+msgstr "Jaki ptak znajduje się na grzbiecie Brrr Muda?	Orzeł	*Papuga	Małpa	Sowa śnieżna"
+
+msgctxt "COMMON"
+msgid "The volcano on Monkey Island is filled with...	*Water	Lava	Magma	Discarded game design documents"
+msgstr "Wulkan na Wyspie Małp jest wypełniony...	*Wodą	Lawą	Magmą	Odrzuconymi dokumentami projektu gry"
+
+msgctxt "COMMON"
+msgid "The Brrr Muda customs form has how many questions?	*33	42	26	52"
+msgstr "Ile pytań zawiera formularz celny Brrr Muda?	*33	42	26	52"
+
+msgctxt "COMMON"
+msgid "The name of the sheriff in Monkey Island 1 was:	*Shinetop	Meathook	Largo	Smirk"
+msgstr "Nazwisko szeryfa na Wyspie Małp 1 brzmiało:	*Shinetop	Meathook	Largo	Smirk"
+
+msgctxt "COMMON"
+msgid "The parrot on the Brrr Muda seal is holding...	*Swords	Crackers	Cannon balls	Icicles"
+msgstr "Papuga na pieczęci Brrr Muda trzyma...	*Miecze	Krakersy	Kule armatnie	Sople"
+
+msgctxt "COMMON"
+msgid "How many windows are lit on the governor's mansion?	*Eighteen	Twenty	Sixteen	Huh?"
+msgstr "Ile okien jest oświetlonych w rezydencji gubernator?	*Osiemnaście	Dwadzieścia	Szesnaście	Hę?"
+
+msgctxt "COMMON"
+msgid "In the Scurvydog Shack, there is a giant...	*Fly	Cockroach	Maggot	Scurvydog"
+msgstr "W Chacie ze Szkorbut-dogami znajduje się dużo okazów....	*Much	Karaluchów	Larw	Szkorbut-dogów"
+
+msgctxt "COMMON"
+msgid "Flags on the midway are...	*Red and yellow	Blue and green	Red and green	Yellow and green"
+msgstr "Flagi na środku drogi są...	*Czerwone i żółte	Niebieskie i zielone	Czerwone i zielone	Żółte i zielone"
+
+msgctxt "COMMON"
+msgid "Flowers by the bench are...	*Purple	Yellow	Pink	Red"
+msgstr "Kwiaty przy ławce są...	*Fioletowe	Żółte	Różowe	Czerwone"
+
+msgctxt "COMMON"
+msgid "How long does it take to walk to Monkey Island?	*6 minutes	10 minutes	1 minute	Months"
+msgstr "Ile czasu zajmuje spacer na Wyspę Małp?	*6 minut	10 minut	1 minuta	Miesiąc"
+
+msgctxt "COMMON"
+msgid "At the end of Monkey Island 1, LeChuck was defeated with:	*Root beer	Voodoo doll	Insult Sword Fighting	Explosives"
+msgstr "Pod koniec Wyspy Małp 1 LeChuck został pokonany:	*Piwem korzennym	Lalką Voodoo	Obelgą	Wybuchem"
+
+msgctxt "COMMON"
+msgid "Production for Monkey Island 1 happened at:	*Skywalker Ranch	Z Building	Lucasfilm North	ILM"
+msgstr "Produkcja dla Wyspy Małp 1 odbyła się w:	*Ranczu Skywalker	Budynku Z	Lucasfilm North	ILM"
+
+msgctxt "COMMON"
+msgid "Production for Monkey Island 2 happened at:	Skywalker Ranch	*A Building	Lucasfilm North	ILM"
+msgstr "Produkcja dla Wyspy Małp 2 odbyła się w:	Ranczu Skywalker	*Budynku A	Lucasfilm North	ILM"
+
+msgctxt "COMMON"
+msgid "How many named books are there in the Mansion bookshelf?	*Seven	Ten	Five	Nine"
+msgstr "Ile imiennych książek znajduje się na regale w Posiadłości?	*7	10	5	9"
+
+msgctxt "COMMON"
+msgid "What is carved into a tree on the beach on Monkey Island?	*“L + E”	“IOU”	“LOL”	“G + E”"
+msgstr "Co jest wyrzeźbione w drzewie na plaży Wyspy Małp?	*“L + E”	“IOU”	“LOL”	“G + E”"
+
+msgctxt "COMMON"
+msgid "The duck in the park can be fed:	*Bread	Duck pellets	Crackers	Fish"
+msgstr "Kaczkę w parku można karmić:	*Chleb	Granulat dla kaczek	Krakersy	Ryba"
+
+msgctxt "COMMON"
+msgid "Dee rambles on and on about:	*Anchors	Ships	Pirates	Sword fighting"
+msgstr "Dee w kółko opowiada o tym samym:	*Kotwice	Statki	Piraci	Szermierka"
+
+msgctxt "COMMON"
+msgid "Which is a genuine skull name?	*Do-rothy	Re-ymond	Morrey	Ti-lda"
+msgstr "Która jest prawdziwą nazwą czaszki?	*Do-rothy	Re-ymond	Morrey	Ti-lda"
+
+msgctxt "COMMON"
+msgid "Which of these cannot be found on the ocean floor?	*A whale bone	Kelp	A crab	A geyser"
+msgstr "Którego z nich nie można znaleźć na dnie oceanu?	*Kość wieloryba	Wodorosty morskie	Krab	Gejzer"
+
+msgctxt "COMMON"
+msgid "Who is the editor of the Pirate Times?	*Conrad Lee	Locke Smith	Davy Jones	Englebert LeCrust"
+msgstr "Kto jest redaktorem Pirackich Czasów?	*Conrad Lee	Lok Smith	Davy Jones	Englebert LeCrust"
+
+msgctxt "COMMON"
+msgid "How many mop trees are there?	One	*Two	Three	Four"
+msgstr "Ile jest drzew mopa?	Jedno	*Dwa	Trzy	Cztery"
+
+msgctxt "COMMON"
+msgid "The crate in the hold has what on the front?	*Cross	Skull	Swords	Pirate flag"
+msgstr "Co skrzynia w ładowni ma z przodu?	*Krzyż	Czaszka	Miecze	Piracka flaga"
+
+msgctxt "COMMON"
+msgid "The acronym for the Marley scurvy foundation is:	SCABB	*STAPL	SLAPS	SCUMM"
+msgstr "Akronimem fundacji Marley jest:	SCABB	*STAPL	SLAPS	SCUMM"
+
+msgctxt "COMMON"
+msgid "Which of the following cannot be bought in the Scurvydog Shack?	Scurvydog	Chickenfoot Fries	Grog	*Steamin’ Weenies"
+msgstr "Której z poniższych rzeczy nie można kupić w Chacie Szkorbut-dog?	Szkorbut-dog	Chickenfoot Fries	Grog	*Parujace parówki"
+
+msgctxt "COMMON"
+msgid "Which of the following books cannot be found on Carla’s bookshelf?	*“Piracy for Dummies”	“The Autobiography of Jon Laney”	“Voodoo Tricks You Can Do at Home”	“Ship-to-Ship Combat Strategies”"
+msgstr "Której z poniższych książek nie można znaleźć na półce Carli?	*"Piractwo dla głupków"	"Autobiografia Jona Laneya"	"Sztuczki Voodoo, które możesz wykonać w domu"	"Strategia walki okrętów""
+
+msgctxt "COMMON"
+msgid "The ghost chicken with digestive trouble is called:	*Molly	Polly	Lola	Madison"
+msgstr "Kurczak widmo z kłopotami trawiennymi to:	*Molly	Polly	Lola	Madison"
+
+msgctxt "COMMON"
+msgid "What is the LeShip cat’s name?	*Scruffles	Flooffy	Bernard	Sir Scratch-A-Lot"
+msgstr "Jak nazywa się kot LeShip?	*Szkorbucik	Flooffy	Bernard	Sir Scratch-A-Lot"
+
+msgctxt "COMMON"
+msgid "What’s the first rule of the Mêlée jail?	*No escaping	No cake	No running	No feeding the rats"
+msgstr "Jaka jest pierwsza zasada więzienia na Wyspie Szpady?	*Nie ma ucieczki	Nie ma ciasta	Nie ma biegania	Nie karmić szczurów"
+
+msgctxt "COMMON"
+msgid "How many torches are initially burning on Brrr Muda?	*Ten	Five	Nineteen	Seven"
+msgstr "Ile pochodni początkowo płonie na Brrr Muda?	*Dziesięć	Pięć	Dziewiętnaście	Siedem"
+
+msgctxt "COMMON"
+msgid "What far sea creature can be seen swimming below from the LeShip's crow’s nest?	*Shark	Squid	Barracuda	Kraken"
+msgstr "Jakie morskie stworzenie można zobaczyć pływające poniżej z bocianiego gniazda LeShip?	*Rekin	Kałamarnica	Barakuda	Kraken"
+
+msgctxt "COMMON"
+msgid "Whose wedding veil can be found in LeChuck's cabin?	*Elaine’s	Putra’s	LeChuck’s	Murray’s"
+msgstr "Czyj ślubny welon można znaleźć w kabinie LeChucka?	*Elaine	Putry	LeChucka	Murraya"
+
+msgctxt "COMMON"
+msgid "In what room is the ground constantly swirling?	*LeChuck’s cabin	Lookout point	Monkey Island cliff	Scumm Bar kitchen"
+msgstr "W jakim pomieszczeniu ziemia nieustannie wiruje?	*Kabina LeChucka	Punkt Obserwacyjny	Klify na Wyspie Małp	Kuchnia w barze Scumm"
+
+msgctxt "COMMON"
+msgid "What does Guybrush say when landing at an island?	Land Ho!	Ahoy!	Throw me a rope!	*Nothing"
+msgstr "Co mówi Guybrush podczas lądowania na wyspie?	Land Ho!	Ahoj!	Rzuć mi linę!	*Nic"
+
+msgctxt "COMMON"
+msgid "How many different geckos can you spot at the Monkey Head location?	*Eight	Three	Six	Ten"
+msgstr "Ile różnych gekonów potrafisz dostrzec w lokacji Głowa Małpy?	*Osiem	Trzy	Sześć	Dziesięć"
+
+msgctxt "COMMON"
+msgid "What does the sign at the Monkey Head location say?	*”Private Property”	”Resting place of Shish keBob”	”Don’t eat the geckos”	”Warning: Poisonous snakes”"
+msgstr "Co mówi znak w lokalizacji Głowy Małpy?	*”Własność prywatna”	”Miejsce spoczynku Shish keBob”	”Nie jedz gekonów”	”Ostrzeżenie: jadowite węże”"
+
+msgctxt "COMMON"
+msgid "How many crows are in the LeShip's crow’s nest?	*Zero	One	Three	Twelve"
+msgstr "Ile wron jest w bocianim gnieździe LeShip?	*Zero	Jedna	Trzy	Dwadzieścia"
+
+msgctxt "COMMON"
+msgid "What ocean species cannot be found in the fish shop on Mêlée?	*Squid	Bloater	Lumpsucker	Toadfish"
+msgstr "Jakiego gatunków nie znajdzie się w sklepie rybnym na Wyspie Szpady?	*Kałamarnica	Pikling	Tasza	Żabnica"
+
+msgctxt "COMMON"
+msgid "Odina is the ____ reigning Queen of Brrr Muda.	*Ninth	Eighth	Second	Twenty-fourth"
+msgstr "Odina jest ____ panującą królową Brrr Muda.	*Dziewiąta	Ósma	Druga	Dwudziesta czwarta"
+
+msgctxt "COMMON"
+msgid "Due to an outbreak of scurvy, all ships heading north of Scurvy Island are required to carry:	*Limes	Lemons	Grapes	Bananas"
+msgstr "Z powodu epidemii szkorbutu, wszystkie statki zmierzające na północ od Wyspy Szkorbutu muszą mieć na pokładzie:	*Limonki	Cytryny	Winogrona	Banany"
+
+msgctxt "COMMON"
+msgid "Stan’s accountant is named:	*Ned	Fred	Ed	Ted"
+msgstr "Księgowy Stana nazywa się:	*Ned	Fred	Ed	Ted"
+
+msgctxt "COMMON"
+msgid "How many hermit crabs have made their home on Barebones Island?	*Two	Four	Six	Eight"
+msgstr "Ile krabów pustelników zamieszkało na Wyspie Chudzielca?	*Dwa	Cztery	Sześć	Osiem"
+
+msgctxt "COMMON"
+msgid "The coat of arms on the Brrr Muda Ice Castle features the following:	*A sword and two fish	A fish and two swords	A swordfish	A fish sword"
+msgstr "Herb na Zamku Lodowym Brrr Muda przedstawia:	*Miecz i dwie ryby	Ryba i dwa miecze	Miecznik	Rybę z mieczem"
+
+msgctxt "COMMON"
+msgid "The bird on Scurvy Island beach is a:	*Scarlet plumed point and snip bird	Red winged command line parser bird	Blue billed thunderbird	Yellow bellied lime pincher"
+msgstr "Ptak na plaży Wyspy Szkorbutu to:	*Szkarłatny pióropusznik i szpak	Czerwony skrzydlaty ptak parsera linii poleceń	Ptak niebieskodzioby	Żółta szczypawka limonkowa"
+
+msgctxt "COMMON"
+msgid "What animal is featured on Bella Fisher’s ship?	*A dog	A fish	A narwhal	An old banana"
+msgstr "Jakie zwierzę widnieje na statku Belli Fisher?	*Pies	Ryba	Narwala	Stary banan"
+
+msgctxt "COMMON"
+msgid "What is the name of the roguish pirate in Herman’s favorite book?	*Reginald	Harry	Sloopbeard	Ron"
+msgstr "Jak nazywa się łobuzerski pirat w ulubionej książce Hermana?	*Reginald	Harry	Smutnobrody	Ron"
+
+msgctxt "COMMON"
+msgid "What does Guybrush specifically dislike?	*Mushrooms	Penguins	Sand	Hurdy-gurdies"
+msgstr "Czego Guybrush szczególnie nie lubi?	*Grzybów	Pingwinów	Piasku	Liry korbowej"
+
+msgctxt "COMMON"
+msgid "What is next to a dead end on Terror Island?	*A leaning tree	A monkey	Piranhas	A creepy statue"
+msgstr "Co znajduje się obok ślepego zaułka na Wyspie Grozy?	*Pochyłe drzewo	Małpa	Piranie	Przerażający posąg"
+
+msgctxt "COMMON"
+msgid "Where can you find brambles?	*Terror Island	Mêlée Island	Scurvy Island	Barebones Island"
+msgstr "Gdzie można znaleźć jeżyny?	*Wyspa Grozy	Wyspa Szpady	Wyspa Szkorbutu	Wyspa Chudzielca"
+
+msgctxt "COMMON"
+msgid "How many skeletons are in the water on the Terror Island beach?	*Two	Eight	One	Four"
+msgstr "Ile szkieletów jest w wodzie na plaży Wyspy Grozy?	*Dwa	Osiem	Jeden	Cztery"
+
+msgctxt "COMMON"
+msgid "What cannot be found on the sea floor?	*An old diving suit	A geyser	Seaweed	A crab"
+msgstr "Czego nie można znaleźć na dnie morza?	*Stary kombinezon do nurkowania	Gejzer	Wodorosty	Krab"
+
+msgctxt "COMMON"
+msgid "What does the Terror Island gate sign say?	*XYZZY	Drink me	Beware	YZXXZ"
+msgstr "Co mówi znak bramy Wyspie Grozy?	*XYZZY	Wypij mnie	Strzeż się	YZXXZ"
+
+msgctxt "COMMON"
+msgid "Where is Cogg Island located?	It's lost to history	It's just lore	It's a myth	Somewhere"
+msgstr "Gdzie leży Wyspa Cogg?	Jest stracona dla historii	To tylko legenda	To mit	Gdzieś"
+
+msgctxt "COMMON"
+msgid "How many parrots are next to the Scurvydog Shack?	*One	Two	Three	None"
+msgstr "Ile papug jest obok Chaty Szkorbut-dogów?	*Jeden	Dwa	Trzy	Żadnej"
+
+msgctxt "COMMON"
+msgid "How many ship masts can be seen in the street with the sleeping pirate?	One	Two	*Three	What sleeping pirate?"
+msgstr "Ile masztów statku można zobaczyć na ulicy ze śpiącym piratem?	Jeden	Dwa	*Trzy	Jaki śpiący pirat?"
+
+msgctxt "COMMON"
+msgid "The Scurvydog vendor...	Is hard of hearing	*Is near-sighted	Can't smell	Can't sing"
+msgstr "Sprzedawca Szkorbut-dogów...	Jest niedosłyszący	*Jest krótkowidzem	Nie czuje zapachu	Nie umiem śpiewać"
+
+msgctxt "COMMON"
+msgid "On the door of the outhouse is a...	*Moon	Warning sign	Pirate flag	Nothing"
+msgstr "Na drzwiach wychodka znajduje się a...	*Księżyc	Znak ostrzegawczy	Piracka flaga	Nic"
+
+msgctxt "COMMON"
+msgid "Chuckie's friend is called:	*Dee	Lil	Zithead	She has no name"
+msgstr "Przyjaciółka Chuckiego nazywa się:	*Dee	Lil	Zithead	Nie ma imienia"
+
+msgctxt "COMMON"
+msgid "How many hot air balloons can be seen from the park?	One	*Two	Three	None"
+msgstr "Ile balonów na ogrzane powietrze widać z parku?	Jeden	*Dwa	Trzy	Żaden"
+
+msgctxt "COMMON"
+msgid "The couple in the park are feeding a...	*Duck	Squirrel	Deer	Pigeon"
+msgstr "Para w parku karmi a...	*Kaczkę	Wiewiórkę	Jelenia	Gołębia"
+
+msgctxt "COMMON"
+msgid "In the park there is a...	Swing	Well	Boat	*All of these"
+msgstr "W parku znajduje się...	Huśtawka	Studnia	Łódź	*Wszystkie z nich"
+
+msgctxt "COMMON"
+msgid "Which of these is not in the park:	Swing	Well	Anchor	*Seesaw"
+msgstr "Którego z nich nie ma w parku:	Huśtawka	Studnia	Kotwica	*Huśtawka dwuosobowa"
+
+msgctxt "COMMON"
+msgid "Chuckie's friend loves her:	*Slingshot	Boots	Hat	Freedom"
+msgstr "Chuckiego kocha swoją:	*Proca	Buty	Kapelusz	Wolność"
+
+msgctxt "COMMON"
+msgid "What are the most stone monkeys found in the first ring?	One	Two	Three	*Four"
+msgstr "Ile jest najbardziej kamiennych małp znalezionych w pierwszym pierścieniu?	Jedna	Dwie	Trzy	*Cztery"
+
+msgctxt "COMMON"
+msgid "How many stone monkeys are in the second ring?	One	Two	*Three	Four"
+msgstr "Ile kamiennych małp znajduje się w drugim pierścieniu?	Jedna	Dwie	Trzy	*Cztery"
+
+msgctxt "COMMON"
+msgid "How many stone monkeys are in the third ring?	One	Two	*Three	Four"
+msgstr "Ile kamiennych małp znajduje się w trzecim pierścieniu?	Jedna	Dwie	Trzy	*Cztery"
+
+msgctxt "COMMON"
+msgid "Who hired the Lookout of Mêlée Island?	*Sheriff Shinetop	Governor Marley	Stan S. Stanman	He has always been the Lookout"
+msgstr "Kto zatrudnił Obserwatora z Wyspy Szpady?	*Sheryf Shinetop	Gubernator Marley	Stan S. Stanman	On zawsze był obserwatorem"
+
+msgctxt "COMMON"
+msgid "What can you do to Meathook's monster?	*Tickle it	Eat it	Talk to it	Take it with you"
+msgstr "Co można zrobić z potworem Meathook'a?	*Połaskotać go	Zjeść go	Porozmawiać z nim	Zabrać go ze sobą"
+
+msgctxt "COMMON"
+msgid "What book does not exist in the Phatt Island Library?	*Who Blew Up LeChuck?	When I Blew Up LeChuck 	Why I Blew Up LeChuck	Where I Blew Up LeChuck"
+msgstr "Jaka książka nie istnieje w Bibliotece na Wyspie Phatta?	*Kto wysadził LeChucka?	Kiedy wysadziłem LeChucka 	Dlaczego wysadziłem LeChucka	Gdzie wysadziłem LeChucka"
+
+msgctxt "COMMON"
+msgid "What book by E. Marley can you borrow from the Phatt Island Library?	*Next to Nothing	Governing 101	Fast Travel for Beginners	Always One Step Ahead"
+msgstr "Jaką książkę E. Marley można wypożyczyć z Biblioteki na Wyspie Phatta?	*Next to Nothing	Governing 101	Fast Travel for Beginners	Always One Step Ahead"
+
+msgctxt "COMMON"
+msgid "What item from Monkey Island 2 did Guybrush bring into Monkey Island 3?	*Helium balloons	A couple of Pieces o' Eight	Pamphlets	Cotton candy"
+msgstr "Jaki przedmiot z Wyspy Małp 2 Guybrush wprowadził do Wyspy Małp 3?	*Balony z helem	Kilka talarów	Broszury	Wata cukrowa"
+
+msgctxt "COMMON"
+msgid "What is Edward Van Helgen's middle name?	*Snugglecakes	Love Muffin	Nose Trimmer	Banjo Master"
+msgstr "Jakie jest drugie imię Edwarda Van Helgena?	*Snugglecakes	Love Muffin	Nose Trimmer	Banjo Master"
+
+msgctxt "COMMON"
+msgid "What is the Voodoo Shop called on Plunder Island?	*Voodoo 'n' Things	International House of Mojo	Voodoos 'r' Us	Voodoo Mart"
+msgstr "Jak nazywa się sklep Voodoo na Wyspie Łupu?	*Voodoo 'n' Things	Międzynarodowe Stowarzyszenie Mojo	Voodoos 'r' Us	Voodoo Mart"
+
+msgctxt "COMMON"
+msgid "In Curse of Monkey Island, there is a paper voodoo doll of...	*Mort the Grave Digger	Mr. Fossey	Cabana Boy	Effete LaFoot"
+msgstr "W Klątwie Wyspy Małp znajduje się papierowa lalka voodoo przedstawiająca...	*Mort the Grave Digger	Mr. Fossey	Cabana Boy	Effete LaFoot"
+
+msgctxt "COMMON"
+msgid "On Plunder Island, what does the secret button at the fort do?	*Shoots a cannon	Opens the fort gate	Releases the chicken	Nothing, it's jammed"
+msgstr "Na Wyspie Łupu do czego służy tajny przycisk w forcie?	*Shoots a cannon	Opens the fort gate	Releases the chicken	Nothing, it's jammed"
+
+msgctxt "COMMON"
+msgid "In Curse of Monkey Island, Bloodnose the Pirate has a real...	*Hat	Beard	Hook	Pirate spirit"
+msgstr "In Curse of Monkey Island, Bloodnose the Pirate has a real...	*Hat	Beard	Hook	Pirate spirit"
+
+msgctxt "COMMON"
+msgid "In Curse of Monkey Island, how many monkeys watch the Shakespeare play?	*7	6	8	1"
+msgstr "W Klątwie Wyspy Małp ile małp ogląda sztukę Szekspira?	*7	6	8	1"
+
+msgctxt "COMMON"
+msgid "On Skull Island, who is the elevator operator that Effete LaFoot is temping for?	*Brawnbeard	Cruff	Mort	Dumb Waiter"
+msgstr "Na Wyspie Czaszki, kto jest operatorem windy, dla którego pracuje Effete LaFoot?	*Brawnbeard	Cruff	Mort	Dumb Waiter"
+
+msgctxt "COMMON"
+msgid "Which family does not exist in Curse of Monkey Island?	*LeBrûlée	Goodsoup	VanSalad	DeGoulash"
+msgstr "Która rodzina nie istnieje w Klątwie Wyspy Małp?	*LeBrûlée	Goodsoup	VanSalad	DeGoulash"
+
+msgctxt "COMMON"
+msgid "Why was Otis in jail on Lucre Island?	*He allegedly stole flowers from Ozzie Mandrill's garden	He allegedly cheated in the chess match at the docks	He allegedly robbed a bank	He allegedly broke a walking stick"
+msgstr "Dlaczego Otis był w więzieniu na Lucre Island?	*He allegedly stole flowers from Ozzie Mandrill's garden	He allegedly cheated in the chess match at the docks	He allegedly robbed a bank	He allegedly broke a walking stick"
+
+msgctxt "COMMON"
+msgid "Through what challenge did Captain Smirk lose his house to Ozzie Mandrill?	*Insult Gin Rummy	Insult Sword Fighting	Insult Arm Wrestling	Insult Video Gaming"
+msgstr "W wyniku jakiego wyzwania kapitan Smirk stracił swój dom na rzecz Ozziego Mandrilla?	*Insult Gin Rummy	Insult Sword Fighting	Insult Arm Wrestling	Insult Video Gaming"
+
+msgctxt "COMMON"
+msgid "What bit off Pegnose Pete's nose?	*A duck	A chicken	A fish	A monkey"
+msgstr "Co odgryzło nos Pegnose Pete'a?	*Kaczka	Kurczak	Ryba	Małpa"
+
+msgctxt "COMMON"
+msgid "What's Murray's job on Jambalaya Island?	*Bouncer at Planet Threepwood	Mug at StarBuccaneer's Coffee	Brewer at the Micro-Groggery	Actor at the puppet theater on Knuttin Atoll"
+msgstr "Na czym polegała praca Murraya na wyspie Jambalaya?	*Bramkarz w Planeta Threepwood	Kubek w StarBuccaneer's Coffee	Piwowar w Micro-Groggery	Aktor teatru lalek na Atolu Knuttin"
+
+msgctxt "COMMON"
+msgid "What are pirates not allowed to do on Knuttin Atoll?	*Plotting	Digging	Doodling	Singing"
+msgstr "Czego nie wolno robić piratom na Atolu Knuttin?	*Plotting	Kopać	Doodling	Śpiewać"
+
+msgctxt "COMMON"
+msgid "What's not part of the ingredients of the Cursed Cutlass of Kaflu?	*A plastic sword	A voodoo doll	The Ultimate Insult	The Midas Diamond"
+msgstr "Co nie wchodzi w skład składników Przeklętego Kordelasa Kaflu?	*Plastikowy miecz	Lalka voodoo	The Ultimate Insult	Diament Midasa"
+
+msgctxt "COMMON"
+msgid "Who is Davey Nipperkin?	*The ace reporter of Flotsam Island	The hotel owner on Scabb Island	A member of the Brimstone Beach Club	A chess player on Lucre Island"
+msgstr "Who is Davey Nipperkin?	*The ace reporter of Flotsam Island	The hotel owner on Scabb Island	A member of the Brimstone Beach Club	A chess player on Lucre Island"
+
+msgctxt "COMMON"
+msgid "Guybrush's left hand was never...	*... wooden!	... cursed!	... a hook!	... gone!"
+msgstr "Guybrush's left hand was never...	*... wooden!	... cursed!	... a hook!	... gone!"
+
+msgctxt "COMMON"
+msgid "What does Morgan LeFlay have a tattoo of?	*The name of her first love	A doodle of Guybrush	A list of her victims	The name of her sword fighting trainer"
+msgstr "What does Morgan LeFlay have a tattoo of?	*The name of her first love	A doodle of Guybrush	A list of her victims	The name of her sword fighting trainer"
+
+msgctxt "COMMON"
+msgid "For a short time in Tales of Monkey Island, Murray believed he was...	*... Democratically United Brotherhood of the Manatee Interior member Santino	... a candle holder	... not scary	... friendly"
+msgstr "For a short time in Tales of Monkey Island, Murray believed he was...	*... Democratically United Brotherhood of the Manatee Interior member Santino	... a candle holder	... not scary	... friendly"
+
+msgctxt "COMMON"
+msgid "Who is the owner of Club 41?	*Judge Wallace P. Grindstump	The Voodoo Lady	Bosun Krebbs	Reginald Van Winslow"
+msgstr "Kto jest właścicielem Klubu 41?	*Sędzia Wallace P. Grindstump	Lady Voodoo	Bosun Krebbs	Reginald Van Winslow"
+
+msgctxt "COMMON"
+msgid "What is NOT one of the many forms of LeChuck?	*Mummy	Ghost	Zombie	Killer walrus"
+msgstr "What is NOT one of the many forms of LeChuck?	*Mummy	Ghost	Zombie	Killer walrus"
+
+msgctxt "COMMON"
+msgid "What does Reginald Van Winslow love?	*Pointing at maps	Collecting Porcelain Power Pirate Action Dolls	Conducting experiments on living creatures	Writing for the Keelhauler Gazette"
+msgstr "What does Reginald Van Winslow love?	*Pointing at maps	Collecting Porcelain Power Pirate Action Dolls	Conducting experiments on living creatures	Writing for the Keelhauler Gazette"
+
+msgctxt "COMMON"
+msgid "How many maggots wiggle on the barrel in the Scumm Bar kitchen?	*6	5	7	8"
+msgstr "How many maggots wiggle on the barrel in the Scumm Bar kitchen?	*6	5	7	8"
+
+msgctxt "COMMON"
+msgid "Where can you find a floor plan of Maps-n-More?	*On a doormat	On the wall inside the shop	In the Museum of Pirate Lore	On Captain Madison's table in the Scumm Bar"
+msgstr "Gdzie można znaleźć plan piętra Mapy i nie tylko?	*Na wycieraczce	Na ścianie wewnątrz sklepu	W Muzeum Piractwa	Na stole kapitan Madison w barze Scumm"
+
+msgctxt "COMMON"
+msgid "In the Alley, what does the sign on the door say?	*Employees Only	Maintenance	Nothing to See Here. Turn Around!	Seckrit Lab"
+msgstr "W Zaułku, co mówi napis na drzwiach?	*Tylko dla pracowników	Obsługa techniczna	Nie ma tu nic do zobaczenia. Obróć się!	Laboratorium Seckritu"
+
+msgctxt "COMMON"
+msgid "How many jail rules are there in part 1?	*1	2	3	4"
+msgstr "Ile zasad więziennych jest w części 1?	*1	2	3	4"
+
+msgctxt "COMMON"
+msgid "What is the name of the first island Guybrush visits in The Secret of Monkey Island?	*Mêlée Island	Booty Island	Blood Island	Monkey Island"
+msgstr "What is the name of the first island Guybrush visits in The Secret of Monkey Island?	*Mêlée Island	Booty Island	Blood Island	Monkey Island"
+
+msgctxt "COMMON"
+msgid "Where in Mêlée Town can you see a cat?	*Above the shop on High Street	Next to the Voodoo Shop sign on Low Street	Above Carla's election poster at the docks	Hiding in the flowerbed in front of the mansion"
+msgstr "Where in Mêlée Town can you see a cat?	*Above the shop on High Street	Next to the Voodoo Shop sign on Low Street	Above Carla's election poster at the docks	Hiding in the flowerbed in front of the mansion"
+
+msgctxt "COMMON"
+msgid "What's the name of Locke's mother's band?	*The Golden Keys	Lock 'n' Roll	Major Keys	The Lockingbirds"
+msgstr "What's the name of Locke's mother's band?	*The Golden Keys	Lock 'n' Roll	Major Keys	The Lockingbirds"
+
+msgctxt "COMMON"
+msgid "Where is the graffiti that looks like a chandelier?	*High Street	Low Street	The docks	Governor's mansion"
+msgstr "Where is the graffiti that looks like a chandelier?	*Low Street	The docks	Governor's mansion"
+
+msgctxt "COMMON"
+msgid "What kind of wrapping paper does the Voodoo Lady have?	*The skin of a lizard	Glitter paper	The fur of a yak	An eco-friendly bag"
+msgstr "What kind of wrapping paper does the Voodoo Lady have?	*The skin of a lizard	Glitter paper	The fur of a yak	An eco-friendly bag"
+
+msgctxt "COMMON"
+msgid "In the International House of Mojo, what do the blue price tags mean?	*Half of half off	Half of	Half of half of half off	Half of half of half of half off"
+msgstr "In the International House of Mojo, what do the blue price tags mean?	*Half of half off	Half of	Half of half of half off	Half of half of half of half off"
+
+msgctxt "COMMON"
+msgid "What animal is carved on the side of LeShip?	*A snake	A monkey	A crow	A chicken"
+msgstr "What animal is carved on the side of LeShip?	*A snake	A monkey	A crow	A chicken"
+
+msgctxt "COMMON"
+msgid "Who is Apple Bob's best friend?	*The sea	Flambe	Iron Rose	The yardarm he is hanging on"
+msgstr "Kto jest najlepszym przyjacielem Wiszącego Boba?	*Morze	Flambe	Żelazna Róża	Reja na której wisi"
+
+msgctxt "COMMON"
+msgid "What does Captain Madison owe Flair?	*A hat	A knife	Lunch	A new pair of boots"
+msgstr "What does Captain Madison owe Flair?	*A hat	A knife	Lunch	A new pair of boots"
+
+msgctxt "COMMON"
+msgid "On LeShip, who is confused by the bell ringing more than twice?	*Apple Bob	Iron Rose	LeChuck	The cat next to the bell"
+msgstr "On LeShip, who is confused by the bell ringing more than twice?	*Wiszący Bob	Iron Rose	LeChuck	The cat next to the bell"
+
+msgctxt "COMMON"
+msgid "On LeShip, what is not a matter that can be voted on?	*A cute crew tattoo for everyone	Guybrush becomes captain	Following Madison to Monkey Island	Wine and cheese on Wednesdays"
+msgstr "On LeShip, what is not a matter that can be voted on?	*A cute crew tattoo for everyone	Guybrush becomes captain	Following Madison to Monkey Island	Wine and cheese on Wednesdays"
+
+msgctxt "COMMON"
+msgid "What is locked in the cupboard in Putra's galley?	*Nothing	A hateful squid	A piranha poodle	An expired yogurt"
+msgstr "What is locked in the cupboard in Putra's galley?	*Nothing	A hateful squid	A piranha poodle	An expired yogurt"
+
+msgctxt "COMMON"
+msgid "On LeShip, what is something LeChuck berates his crew for?	*The crew doesn't grovel enough	The lanterns swing too much	The litter box hasn't been cleaned this morning	Someone slammed the door after bedtime"
+msgstr "On LeShip, what is something LeChuck berates his crew for?	*The crew doesn't grovel enough	The lanterns swing too much	The litter box hasn't been cleaned this morning	Someone slammed the door after bedtime"
+
+msgctxt "COMMON"
+msgid "Who plays banjo after 10 o'clock on LeShip?	*Flair	LeChuck	Iron Rose	Flambe"
+msgstr "Who plays banjo after 10 o'clock on LeShip?	*Flair	LeChuck	Iron Rose	Flambe"
+
+msgctxt "COMMON"
+msgid "On Monkey Island, what did Captain Madison promise to give Murray?	*Guybrush's skeleton	A cut of The Secret	A gold grill	Reading glasses"
+msgstr "On Monkey Island, what did Captain Madison promise to give Murray?	*Guybrush's skeleton	A cut of The Secret	A gold grill	Reading glasses"
+
+msgctxt "COMMON"
+msgid "Where on Monkey Island can you spot a dancing crab?	*On one of the wrecks of the Sea Monkey	Next to the L+E tree	On LeShip's anchor	On top of the dead squid"
+msgstr "Where on Monkey Island can you spot a dancing crab?	*On one of the wrecks of the Sea Monkey	Next to the L+E tree	On LeShip's anchor	On top of the dead squid"
+
+msgctxt "COMMON"
+msgid "Gullet has a lost twin brother! What's his name?	*Mullet	Largo	Bullet	Deep Throat"
+msgstr "Gullet has a lost twin brother! What's his name?	*Mullet	Largo	Bullet	Deep Throat"
+
+msgctxt "COMMON"
+msgid "What's the name of the fish store?	*The Cod's Wallop	The Flounder's Pounder	The Blowfish's Blow	The Dab's Jab"
+msgstr "What's the name of the fish store?	*The Cod's Wallop	The Flounder's Pounder	The Blowfish's Blow	The Dab's Jab"
+
+msgctxt "COMMON"
+msgid "What can Guybrush smell from the limes?	*Ascorbic acid	Quercetin	Limonoids	Kaempferol"
+msgstr "What can Guybrush smell from the limes?	*Ascorbic acid	Quercetin	Limonoids	Kaempferol"
+
+msgctxt "COMMON"
+msgid "What's the name of the goldfish in the fish store?	*Sushi	Annie	Bubbles	Leslie"
+msgstr "What's the name of the goldfish in the fish store?	*Sushi	Annie	Bubbles	Leslie"
+
+msgctxt "COMMON"
+msgid "What is a sign on the adrift ship?	*No Left Turn sign	No U-Turn sign	No Parking sign	No Smoking sign"
+msgstr "What is a sign on the adrift ship?	*No Left Turn sign	No U-Turn sign	No Parking sign	No Smoking sign"
+
+msgctxt "COMMON"
+msgid "How many skulls are on the magical glow protecting The Secret's safe?	*3	2	1	4"
+msgstr "How many skulls are on the magical glow protecting The Secret's safe?	*3	2	1	4"
+
+msgctxt "COMMON"
+msgid "What is the most dangerous shark of all?	*The coral fire shark	The spicy mint shark	The lion's mane jellyshark	The loan shark"
+msgstr "What is the most dangerous shark of all?	*The coral fire shark	The spicy mint shark	The lion's mane jellyshark	The loan shark"
+
+msgctxt "COMMON"
+msgid "An extra large killer ant lies in hiding on Terror Island. Where is it?	*In the mysterious clearing	At the slimy grotto	At the bizarre grove	At the unlucky place"
+msgstr "An extra large killer ant lies in hiding on Terror Island. Where is it?	*In the mysterious clearing	At the slimy grotto	At the bizarre grove	At the unlucky place"
+
+msgctxt "COMMON"
+msgid "Who or what is Carl?	*Herman's rat trap	The Lookout	Guybrush's mop	The swordmaster of Mêlée Island"
+msgstr "Who or what is Carl?	*Herman's rat trap	The Lookout	Guybrush's mop	The swordmaster of Mêlée Island"
+
+msgctxt "COMMON"
+msgid "In the Brrr Muda throne room, what is the bucket slowly filling up with?	*Castle	Wood	Fishbones	Tears"
+msgstr "In the Brrr Muda throne room, what is the bucket slowly filling up with?	*Castle	Wood	Fishbones	Tears"
+
+msgctxt "COMMON"
+msgid "What does Guybrush NOT have to prove in the three contests to become queen?	*Loyalty	Heartiness	Seriousness	Intelligence"
+msgstr "What does Guybrush NOT have to prove in the three contests to become queen?	*Loyalty	Heartiness	Seriousness	Intelligence"
+
+msgctxt "COMMON"
+msgid "As Queen of Brrr Muda, what does Guybrush plan to do with the castle?	*Deep clean it with hot water	Add wallpaper	Charge entrance fees from tourists	Turn it into a giant water slide"
+msgstr "As Queen of Brrr Muda, what does Guybrush plan to do with the castle?	*Deep clean it with hot water	Add wallpaper	Charge entrance fees from tourists	Turn it into a giant water slide"
+
+msgctxt "COMMON"
+msgid "On Barebones Island, what advice does Murray have for Guybrush?	*Take up knitting	Join a funk band	Train potato bugs to do tricks	Teach basket weaving to clams"
+msgstr "Na Wyspie Chudzielca, jaką radę ma Murray dla Guybrusha?	*Take up knitting	Join a funk band	Train potato bugs to do tricks	Teach basket weaving to clams"
+
+msgctxt "COMMON"
+msgid "Who did the Voodoo Lady sell her cauldron to?	*A soup shop on another island	The Scumm Bar	LeChuck	The Museum of Pirate Lore"
+msgstr "Komu Lady Voodoo sprzedała swój kocioł?	*Sklep z zupami na innej wyspie		Barowi Scumm	LeChuckowi	Muzeum Piractwa"
+
+msgctxt "COMMON"
+msgid "What, other than a golden key, was destroyed by the court according to the probate order?	*A fancy box	A mug with "The Golden Keys" logo on it	A key-shaped key chain	A keyboard"
+msgstr "What, other than a golden key, was destroyed by the court according to the probate order?	*A fancy box	A mug with "The Golden Keys" logo on it	A key-shaped key chain	A keyboard"
+
+msgctxt "COMMON"
+msgid "What's the seal on Ned's accounting license?	*An abacus	A stack of papers	A pirate swimming in money	A winking paperclip"
+msgstr "What's the seal on Ned's accounting license?	*An abacus	A stack of papers	A pirate swimming in money	A winking paperclip"
+
+msgctxt "COMMON"
+msgid "Where does all the driftwood go during driftwood mating season?	*Scurvy Island	Monkey Island	Barebones Island	What?"
+msgstr "Where does all the driftwood go during driftwood mating season?	*Scurvy Island	Monkey Island	Barebones Island	What?"
+
+msgctxt "COMMON"
+msgid "What are the silver keys on the Brrr Muda Queen's crown?	*House keys of the citizens	Keys for smaller, less interesting secrets	Board game pieces	Cereal box prizes"
+msgstr "What are the silver keys on the Brrr Muda Queen's crown?	*House keys of the citizens	Keys for smaller, less interesting secrets	Board game pieces	Cereal box prizes"
+
+msgctxt "COMMON"
+msgid "How old was the Mêlée Island mop tree?	*Over two hundred years old	Nobody knows	It was installed last week	As old as the question of which came first: the mop or the tree?"
+msgstr "How old was the Mêlée Island mop tree?	*Over two hundred years old	Nobody knows	It was installed last week	As old as the question of which came first: the mop or the tree?"
+
+msgctxt "COMMON"
+msgid "The dog in the Scumm Bar in The Secret of Monkey Island was called...	*Spiffy	Spaffy	Pep	Dogbrush"
+msgstr "The dog in the Scumm Bar in The Secret of Monkey Island was called...	*Spiffy	Spaffy	Pep	Dogbrush"
+
+msgctxt "COMMON"
+msgid "In The Secret of Monkey Island, which floppy disk was not always missing?	*Disk #6	Disk #22	Disk #36	Disk #114"
+msgstr "W The Secret of Monkey Island, której dyskietki nie zawsze brakowało!	*Disk #6	Disk #22	Disk #36	Disk #114"
+
+msgctxt "COMMON"
+msgid "Who walked out of Dave Grossman’s job interview at Lucasfilm first?	*Ron Gilbert	David Fox	Gary Winnick	Noah Falstein"
+msgstr "Who walked out of Dave Grossman’s job interview at Lucasfilm first?	*Ron Gilbert	David Fox	Gary Winnick	Noah Falstein"
+
+msgctxt "COMMON"
+msgid "Ron Gilbert's first game at Lucasfilm Games was...	*Koronis Rift	Rescue on Fractalus	Maniac Mansion	Ballblazer"
+msgstr "Ron Gilbert's first game at Lucasfilm Games was...	*Koronis Rift	Rescue on Fractalus	Maniac Mansion	Ballblazer"
+
+msgctxt "COMMON"
+msgid "David Fox was Lucasfilm Games employee number...	*3	1	2	4"
+msgstr "David Fox był pracownikiem Lucasfilm Games...	*3	1	2	4"
+

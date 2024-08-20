@@ -17,7 +17,11 @@ namespace po2tsv_converter.Settings
 
     public enum Mode
     {
-        ToPo,
-        FromPo
+        MainToPo,
+        MainFromPo,
+        CollectableToPo,
+        CollectableFromPo,
+        LeDiaryToPo,
+        LeDiaryFromPo,
     }
 }
