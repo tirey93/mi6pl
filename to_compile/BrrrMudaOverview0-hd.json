@@ -1,0 +1,196 @@
+{
+  "frames": {
+    "background": {
+      "frame": {
+        "h": 1440,
+        "w": 2340,
+        "x": 8,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 1440,
+        "w": 2340,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": "false"
+    },
+    "brrrmuda_text_de": {
+      "frame": {
+        "h": 95,
+        "w": 374,
+        "x": 257,
+        "y": 1464
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 95,
+        "w": 374,
+        "x": 512,
+        "y": 985
+      },
+      "trimmed": "true"
+    },
+    "brrrmuda_text_en": {
+      "frame": {
+        "h": 95,
+        "w": 374,
+        "x": 257,
+        "y": 1464
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 95,
+        "w": 374,
+        "x": 512,
+        "y": 985
+      },
+      "trimmed": "true"
+    },
+    "brrrmuda_text_es": {
+      "frame": {
+        "h": 95,
+        "w": 374,
+        "x": 257,
+        "y": 1464
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 95,
+        "w": 374,
+        "x": 512,
+        "y": 985
+      },
+      "trimmed": "true"
+    },
+    "brrrmuda_text_fr": {
+      "frame": {
+        "h": 95,
+        "w": 374,
+        "x": 257,
+        "y": 1464
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 95,
+        "w": 374,
+        "x": 512,
+        "y": 985
+      },
+      "trimmed": "true"
+    },
+    "brrrmuda_text_it": {
+      "frame": {
+        "h": 95,
+        "w": 374,
+        "x": 257,
+        "y": 1464
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 95,
+        "w": 374,
+        "x": 512,
+        "y": 985
+      },
+      "trimmed": "true"
+    },
+    "brrrmuda_text_pt_br": {
+      "frame": {
+        "h": 95,
+        "w": 374,
+        "x": 257,
+        "y": 1464
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 95,
+        "w": 374,
+        "x": 512,
+        "y": 985
+      },
+      "trimmed": "true"
+    },
+    "brrrmuda_text_ru": {
+      "frame": {
+        "h": 70,
+        "w": 367,
+        "x": 647,
+        "y": 1464
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 70,
+        "w": 367,
+        "x": 520,
+        "y": 985
+      },
+      "trimmed": "true"
+    },
+    "brrrmuda_text_zh_cn": {
+      "frame": {
+        "h": 99,
+        "w": 233,
+        "x": 8,
+        "y": 1464
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 99,
+        "w": 233,
+        "x": 587,
+        "y": 978
+      },
+      "trimmed": "true"
+    }
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "format": "RGBA8888",
+    "image": "BrrrMudaOverview0-hd.png",
+    "scale": "1",
+    "size": {
+      "h": 1571,
+      "w": 2356
+    },
+    "smartupdate": "$TexturePacker:SmartUpdate:7880e30d02c57ad91688271b4f9db067:f39c972dfe8ea6fb2e2ab0dff9e8a546:b2a67114b6edcfcf901ba9bca7183e21$",
+    "version": "1.0"
+  }
+}

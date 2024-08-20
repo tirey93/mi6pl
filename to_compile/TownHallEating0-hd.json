@@ -1,0 +1,596 @@
+{
+  "frames": {
+    "background": {
+      "frame": {
+        "h": 1440,
+        "w": 2340,
+        "x": 8,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 1440,
+        "w": 2340,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": "false"
+    },
+    "bloater": {
+      "frame": {
+        "h": 206,
+        "w": 141,
+        "x": 487,
+        "y": 3700
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 206,
+        "w": 141,
+        "x": 1241,
+        "y": 578
+      },
+      "trimmed": "true"
+    },
+    "box": {
+      "frame": {
+        "h": 214,
+        "w": 219,
+        "x": 252,
+        "y": 3700
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 214,
+        "w": 219,
+        "x": 1457,
+        "y": 696
+      },
+      "trimmed": "true"
+    },
+    "bucket": {
+      "frame": {
+        "h": 159,
+        "w": 138,
+        "x": 1288,
+        "y": 3894
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 159,
+        "w": 138,
+        "x": 1241,
+        "y": 625
+      },
+      "trimmed": "true"
+    },
+    "chair": {
+      "frame": {
+        "h": 290,
+        "w": 228,
+        "x": 8,
+        "y": 3700
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 290,
+        "w": 228,
+        "x": 1172,
+        "y": 460
+      },
+      "trimmed": "true"
+    },
+    "fish_of_day_de": {
+      "frame": {
+        "h": 150,
+        "w": 172,
+        "x": 975,
+        "y": 3906
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 150,
+        "w": 172,
+        "x": 1500,
+        "y": 285
+      },
+      "trimmed": "true"
+    },
+    "fish_of_day_en": {
+      "frame": {
+        "h": 130,
+        "w": 109,
+        "x": 1163,
+        "y": 3901
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 130,
+        "w": 109,
+        "x": 1540,
+        "y": 292
+      },
+      "trimmed": "true"
+    },
+    "fish_of_day_es": {
+      "frame": {
+        "h": 133,
+        "w": 191,
+        "x": 628,
+        "y": 3922
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 133,
+        "w": 191,
+        "x": 1503,
+        "y": 285
+      },
+      "trimmed": "true"
+    },
+    "fish_of_day_fr": {
+      "frame": {
+        "h": 130,
+        "w": 109,
+        "x": 1163,
+        "y": 3901
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 130,
+        "w": 109,
+        "x": 1540,
+        "y": 292
+      },
+      "trimmed": "true"
+    },
+    "fish_of_day_it": {
+      "frame": {
+        "h": 141,
+        "w": 124,
+        "x": 835,
+        "y": 3914
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 141,
+        "w": 124,
+        "x": 1541,
+        "y": 282
+      },
+      "trimmed": "true"
+    },
+    "fish_of_day_pt_br": {
+      "frame": {
+        "h": 127,
+        "w": 167,
+        "x": 445,
+        "y": 3930
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 127,
+        "w": 167,
+        "x": 1511,
+        "y": 293
+      },
+      "trimmed": "true"
+    },
+    "fish_of_day_ru": {
+      "frame": {
+        "h": 112,
+        "w": 149,
+        "x": 2271,
+        "y": 3920
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 112,
+        "w": 149,
+        "x": 1521,
+        "y": 300
+      },
+      "trimmed": "true"
+    },
+    "fish_of_day_zh_cn": {
+      "frame": {
+        "h": 124,
+        "w": 188,
+        "x": 2173,
+        "y": 3055
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 124,
+        "w": 188,
+        "x": 1501,
+        "y": 293
+      },
+      "trimmed": "true"
+    },
+    "fish_of_the_day_jp": {
+      "frame": {
+        "h": 120,
+        "w": 179,
+        "x": 2173,
+        "y": 3461
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 120,
+        "w": 179
+      },
+      "spriteSourceSize": {
+        "h": 120,
+        "w": 179,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": "false"
+    },
+    "foreground": {
+      "frame": {
+        "h": 1440,
+        "w": 2340,
+        "x": 8,
+        "y": 1464
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 1440,
+        "w": 2340,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": "false"
+    },
+    "guybrush_plate": {
+      "frame": {
+        "h": 71,
+        "w": 122,
+        "x": 2300,
+        "y": 3728
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 71,
+        "w": 122,
+        "x": 1388,
+        "y": 781
+      },
+      "trimmed": "true"
+    },
+    "hagfish": {
+      "frame": {
+        "h": 178,
+        "w": 138,
+        "x": 1234,
+        "y": 3700
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 178,
+        "w": 138,
+        "x": 1241,
+        "y": 606
+      },
+      "trimmed": "true"
+    },
+    "lumpsucker": {
+      "frame": {
+        "h": 190,
+        "w": 158,
+        "x": 863,
+        "y": 3700
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 190,
+        "w": 158,
+        "x": 1241,
+        "y": 594
+      },
+      "trimmed": "true"
+    },
+    "orange_light": {
+      "frame": {
+        "h": 764,
+        "w": 1354,
+        "x": 8,
+        "y": 2920
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 764,
+        "w": 1354,
+        "x": 350,
+        "y": 581
+      },
+      "trimmed": "true"
+    },
+    "queen_plate": {
+      "frame": {
+        "h": 114,
+        "w": 141,
+        "x": 2114,
+        "y": 3920
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 114,
+        "w": 141,
+        "x": 1115,
+        "y": 568
+      },
+      "trimmed": "true"
+    },
+    "sign_bloater": {
+      "frame": {
+        "h": 127,
+        "w": 177,
+        "x": 252,
+        "y": 3930
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 127,
+        "w": 177,
+        "x": 1493,
+        "y": 380
+      },
+      "trimmed": "true"
+    },
+    "sign_hagfish": {
+      "frame": {
+        "h": 115,
+        "w": 178,
+        "x": 2114,
+        "y": 3597
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 115,
+        "w": 178,
+        "x": 1492,
+        "y": 391
+      },
+      "trimmed": "true"
+    },
+    "sign_lumpsucker": {
+      "frame": {
+        "h": 176,
+        "w": 170,
+        "x": 2114,
+        "y": 3728
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 176,
+        "w": 170,
+        "x": 1500,
+        "y": 360
+      },
+      "trimmed": "true"
+    },
+    "sign_slimehead": {
+      "frame": {
+        "h": 119,
+        "w": 194,
+        "x": 2173,
+        "y": 2920
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 119,
+        "w": 194,
+        "x": 1488,
+        "y": 409
+      },
+      "trimmed": "true"
+    },
+    "sign_toadfish": {
+      "frame": {
+        "h": 111,
+        "w": 181,
+        "x": 2173,
+        "y": 3334
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 111,
+        "w": 181,
+        "x": 1487,
+        "y": 421
+      },
+      "trimmed": "true"
+    },
+    "slimehead": {
+      "frame": {
+        "h": 198,
+        "w": 203,
+        "x": 644,
+        "y": 3700
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 198,
+        "w": 203,
+        "x": 1240,
+        "y": 586
+      },
+      "trimmed": "true"
+    },
+    "table": {
+      "frame": {
+        "h": 469,
+        "w": 656,
+        "x": 1442,
+        "y": 3574
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 469,
+        "w": 656,
+        "x": 962,
+        "y": 643
+      },
+      "trimmed": "true"
+    },
+    "table_queen": {
+      "frame": {
+        "h": 638,
+        "w": 779,
+        "x": 1378,
+        "y": 2920
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 638,
+        "w": 779,
+        "x": 945,
+        "y": 524
+      },
+      "trimmed": "true"
+    },
+    "toadfish": {
+      "frame": {
+        "h": 185,
+        "w": 181,
+        "x": 1037,
+        "y": 3700
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 185,
+        "w": 181,
+        "x": 1215,
+        "y": 599
+      },
+      "trimmed": "true"
+    }
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "format": "RGBA8888",
+    "image": "TownHallEating0-hd.png",
+    "scale": "1",
+    "size": {
+      "h": 4065,
+      "w": 2430
+    },
+    "smartupdate": "$TexturePacker:SmartUpdate:1b40a1683dea222747076541fe8513d5:ebfe4c802253284832337abb455c481a:e3155e813ffd8e52ca839d73571b86f0$",
+    "version": "1.0"
+  }
+}

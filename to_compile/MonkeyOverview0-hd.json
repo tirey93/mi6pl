@@ -1,0 +1,236 @@
+{
+  "frames": {
+    "background": {
+      "frame": {
+        "h": 1440,
+        "w": 2340,
+        "x": 8,
+        "y": 158
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 1440,
+        "w": 2340,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": "false"
+    },
+    "hide_stump": {
+      "frame": {
+        "h": 62,
+        "w": 73,
+        "x": 8,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 62,
+        "w": 73,
+        "x": 1137,
+        "y": 646
+      },
+      "trimmed": "true"
+    },
+    "leship": {
+      "frame": {
+        "h": 108,
+        "w": 119,
+        "x": 516,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 108,
+        "w": 119,
+        "x": 453,
+        "y": 881
+      },
+      "trimmed": "true"
+    },
+    "monkeyisland_text_de": {
+      "frame": {
+        "h": 121,
+        "w": 355,
+        "x": 880,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 121,
+        "w": 355,
+        "x": 666,
+        "y": 983
+      },
+      "trimmed": "true"
+    },
+    "monkeyisland_text_en": {
+      "frame": {
+        "h": 121,
+        "w": 355,
+        "x": 880,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 121,
+        "w": 355,
+        "x": 666,
+        "y": 983
+      },
+      "trimmed": "true"
+    },
+    "monkeyisland_text_es": {
+      "frame": {
+        "h": 121,
+        "w": 355,
+        "x": 880,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 121,
+        "w": 355,
+        "x": 666,
+        "y": 983
+      },
+      "trimmed": "true"
+    },
+    "monkeyisland_text_fr": {
+      "frame": {
+        "h": 121,
+        "w": 355,
+        "x": 880,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 121,
+        "w": 355,
+        "x": 666,
+        "y": 983
+      },
+      "trimmed": "true"
+    },
+    "monkeyisland_text_it": {
+      "frame": {
+        "h": 121,
+        "w": 355,
+        "x": 880,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 121,
+        "w": 355,
+        "x": 666,
+        "y": 983
+      },
+      "trimmed": "true"
+    },
+    "monkeyisland_text_pt_br": {
+      "frame": {
+        "h": 134,
+        "w": 373,
+        "x": 1599,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 134,
+        "w": 373,
+        "x": 658,
+        "y": 989
+      },
+      "trimmed": "true"
+    },
+    "monkeyisland_text_ru": {
+      "frame": {
+        "h": 86,
+        "w": 403,
+        "x": 97,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 86,
+        "w": 403,
+        "x": 626,
+        "y": 993
+      },
+      "trimmed": "true"
+    },
+    "monkeyisland_text_zh_cn": {
+      "frame": {
+        "h": 110,
+        "w": 213,
+        "x": 651,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 110,
+        "w": 213,
+        "x": 696,
+        "y": 991
+      },
+      "trimmed": "true"
+    }
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "format": "RGBA8888",
+    "image": "MonkeyOverview0-hd.png",
+    "scale": "1",
+    "size": {
+      "h": 1606,
+      "w": 2356
+    },
+    "smartupdate": "$TexturePacker:SmartUpdate:28ff7a39ddf5c16eeb5919f4c16abda3:134da9f9ac3c4da24d889b3d589e4b71:d0aa0d6a774c9fcdd156e3c930beb2a8$",
+    "version": "1.0"
+  }
+}

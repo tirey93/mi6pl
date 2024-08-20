@@ -11,12 +11,14 @@ var configuration = new ConfigurationBuilder()
 var serviceProvider = new ServiceCollection()
 
     .Configure<MainSettings>(configuration.GetSection(nameof(MainSettings)))
+    .Configure<TexturesSettings>(configuration.GetSection(nameof(TexturesSettings)))
     .AddTransient<MainToPoCommand>()
     .AddTransient<MainFromPoCommand>()
     .AddTransient<CollectableToPoCommand>()
     .AddTransient<CollectableFromPoCommand>()
     .AddTransient<LeDiaryToPoCommand>()
     .AddTransient<LeDiaryFromPoCommand>()
+    .AddTransient<ReplaceTexturesCommand>()
     .BuildServiceProvider();
 
 var options = serviceProvider.GetService<IOptions<MainSettings>>();
@@ -53,6 +55,11 @@ try
             var leDiaryFromPoCommand = serviceProvider.GetService<LeDiaryFromPoCommand>();
             if (!leDiaryFromPoCommand.HasErrors)
                 leDiaryFromPoCommand.Execute();
+            break;
+        case Mode.ReplaceTextures:
+            var replaceTexturesCommand = serviceProvider.GetService<ReplaceTexturesCommand>();
+            if (!replaceTexturesCommand.HasErrors)
+                replaceTexturesCommand.Execute();
             break;
         default:
             break;

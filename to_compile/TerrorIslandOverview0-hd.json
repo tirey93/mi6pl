@@ -1,0 +1,356 @@
+{
+  "frames": {
+    "background": {
+      "frame": {
+        "h": 1440,
+        "w": 2340,
+        "x": 8,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 1440,
+        "w": 2340,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": "false"
+    },
+    "compass_text_de": {
+      "frame": {
+        "h": 257,
+        "w": 334,
+        "x": 2364,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 257,
+        "w": 334,
+        "x": 1714,
+        "y": 208
+      },
+      "trimmed": "true"
+    },
+    "compass_text_en": {
+      "frame": {
+        "h": 257,
+        "w": 334,
+        "x": 2364,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 257,
+        "w": 334,
+        "x": 1714,
+        "y": 208
+      },
+      "trimmed": "true"
+    },
+    "compass_text_es": {
+      "frame": {
+        "h": 257,
+        "w": 334,
+        "x": 2364,
+        "y": 281
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 257,
+        "w": 334,
+        "x": 1714,
+        "y": 208
+      },
+      "trimmed": "true"
+    },
+    "compass_text_fr": {
+      "frame": {
+        "h": 257,
+        "w": 334,
+        "x": 2364,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 257,
+        "w": 334,
+        "x": 1714,
+        "y": 208
+      },
+      "trimmed": "true"
+    },
+    "compass_text_it": {
+      "frame": {
+        "h": 257,
+        "w": 334,
+        "x": 2364,
+        "y": 281
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 257,
+        "w": 334,
+        "x": 1714,
+        "y": 208
+      },
+      "trimmed": "true"
+    },
+    "compass_text_pt_br": {
+      "frame": {
+        "h": 257,
+        "w": 334,
+        "x": 2364,
+        "y": 281
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 257,
+        "w": 334,
+        "x": 1714,
+        "y": 208
+      },
+      "trimmed": "true"
+    },
+    "compass_text_ru": {
+      "frame": {
+        "h": 235,
+        "w": 317,
+        "x": 2364,
+        "y": 554
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 235,
+        "w": 317,
+        "x": 1731,
+        "y": 208
+      },
+      "trimmed": "true"
+    },
+    "leship": {
+      "frame": {
+        "h": 154,
+        "w": 188,
+        "x": 2714,
+        "y": 123
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 154,
+        "w": 188,
+        "x": 390,
+        "y": 388
+      },
+      "trimmed": "true"
+    },
+    "terror_text_de": {
+      "frame": {
+        "h": 116,
+        "w": 290,
+        "x": 2364,
+        "y": 1251
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 116,
+        "w": 290,
+        "x": 509,
+        "y": 1023
+      },
+      "trimmed": "true"
+    },
+    "terror_text_en": {
+      "frame": {
+        "h": 116,
+        "w": 290,
+        "x": 2364,
+        "y": 1251
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 116,
+        "w": 290,
+        "x": 509,
+        "y": 1023
+      },
+      "trimmed": "true"
+    },
+    "terror_text_es": {
+      "frame": {
+        "h": 134,
+        "w": 290,
+        "x": 2364,
+        "y": 805
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 134,
+        "w": 290,
+        "x": 510,
+        "y": 995
+      },
+      "trimmed": "true"
+    },
+    "terror_text_fr": {
+      "frame": {
+        "h": 116,
+        "w": 290,
+        "x": 2364,
+        "y": 1251
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 116,
+        "w": 290,
+        "x": 509,
+        "y": 1023
+      },
+      "trimmed": "true"
+    },
+    "terror_text_it": {
+      "frame": {
+        "h": 116,
+        "w": 290,
+        "x": 2364,
+        "y": 1251
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 116,
+        "w": 290,
+        "x": 509,
+        "y": 1023
+      },
+      "trimmed": "true"
+    },
+    "terror_text_pt_br": {
+      "frame": {
+        "h": 123,
+        "w": 290,
+        "x": 2364,
+        "y": 955
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 123,
+        "w": 290,
+        "x": 510,
+        "y": 1006
+      },
+      "trimmed": "true"
+    },
+    "terror_text_ru": {
+      "frame": {
+        "h": 99,
+        "w": 223,
+        "x": 2714,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 99,
+        "w": 223,
+        "x": 550,
+        "y": 1028
+      },
+      "trimmed": "true"
+    },
+    "terror_text_zh_cn": {
+      "frame": {
+        "h": 113,
+        "w": 288,
+        "x": 2666,
+        "y": 1094
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 113,
+        "w": 288,
+        "x": 515,
+        "y": 1017
+      },
+      "trimmed": "true"
+    }
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "format": "RGBA8888",
+    "image": "TerrorIslandOverview0-hd.png",
+    "scale": "1",
+    "size": {
+      "h": 1456,
+      "w": 2962
+    },
+    "smartupdate": "$TexturePacker:SmartUpdate:3ef3d92d28bf2c0e4d2862f4ece5df6b:d17eb8c421a63040f9f4e16cb9e7ffaf:28bc05a023fbfb2fbf3481aa61d0de52$",
+    "version": "1.0"
+  }
+}

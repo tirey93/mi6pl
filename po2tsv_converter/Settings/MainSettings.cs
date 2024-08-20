@@ -23,5 +23,6 @@ namespace po2tsv_converter.Settings
         CollectableFromPo,
         LeDiaryToPo,
         LeDiaryFromPo,
+        ReplaceTextures
     }
 }

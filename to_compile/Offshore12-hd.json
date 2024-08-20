@@ -1,0 +1,240 @@
+{
+  "frames": {
+    "fg_seaweed": {
+      "frame": {
+        "h": 1122,
+        "w": 426,
+        "x": 630,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1122,
+        "w": 426
+      },
+      "spriteSourceSize": {
+        "h": 1122,
+        "w": 426,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": "false"
+    },
+    "fg_seaweed2": {
+      "frame": {
+        "h": 251,
+        "w": 188,
+        "x": 8,
+        "y": 1464
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 251,
+        "w": 188
+      },
+      "spriteSourceSize": {
+        "h": 251,
+        "w": 188,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": "false"
+    },
+    "r_near_foreground": {
+      "frame": {
+        "h": 1440,
+        "w": 606,
+        "x": 8,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 606
+      },
+      "spriteSourceSize": {
+        "h": 1440,
+        "w": 606,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": "false"
+    },
+    "sign_text_de": {
+      "frame": {
+        "h": 121,
+        "w": 239,
+        "x": 630,
+        "y": 1426
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 121,
+        "w": 239
+      },
+      "spriteSourceSize": {
+        "h": 121,
+        "w": 239,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": "false"
+    },
+    "sign_text_en": {
+      "frame": {
+        "h": 119,
+        "w": 242,
+        "x": 212,
+        "y": 1594
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 119,
+        "w": 242
+      },
+      "spriteSourceSize": {
+        "h": 119,
+        "w": 242,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": "false"
+    },
+    "sign_text_es": {
+      "frame": {
+        "h": 118,
+        "w": 236,
+        "x": 716,
+        "y": 1563
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 118,
+        "w": 236
+      },
+      "spriteSourceSize": {
+        "h": 118,
+        "w": 236,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": "false"
+    },
+    "sign_text_it": {
+      "frame": {
+        "h": 123,
+        "w": 251,
+        "x": 630,
+        "y": 1146
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 123,
+        "w": 251
+      },
+      "spriteSourceSize": {
+        "h": 123,
+        "w": 251,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": "false"
+    },
+    "sign_text_pt_br": {
+      "frame": {
+        "h": 125,
+        "w": 239,
+        "x": 630,
+        "y": 1285
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 125,
+        "w": 239
+      },
+      "spriteSourceSize": {
+        "h": 125,
+        "w": 239,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": "false"
+    },
+    "sign_text_ru": {
+      "frame": {
+        "h": 114,
+        "w": 258,
+        "x": 212,
+        "y": 1464
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 114,
+        "w": 258
+      },
+      "spriteSourceSize": {
+        "h": 114,
+        "w": 258,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": "false"
+    },
+    "sign_text_zh_cn": {
+      "frame": {
+        "h": 120,
+        "w": 230,
+        "x": 470,
+        "y": 1594
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 120,
+        "w": 230
+      },
+      "spriteSourceSize": {
+        "h": 120,
+        "w": 230,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": "false"
+    },
+    "sign_text_fr": {
+      "frame": {
+        "h": 119,
+        "w": 242,
+        "x": 212,
+        "y": 1594
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 119,
+        "w": 242
+      },
+      "spriteSourceSize": {
+        "h": 119,
+        "w": 242,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": "false"
+    }
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "format": "RGBA8888",
+    "image": "Offshore12-hd.png",
+    "related_multi_packs": [
+      "Offshore10-hd.json",
+      "Offshore11-hd.json"
+    ],
+    "scale": "1",
+    "size": {
+      "h": 1723,
+      "w": 1064
+    },
+    "smartupdate": "$TexturePacker:SmartUpdate:bf955e5bfd8d310c0b441dc7221a9ad4:bdce574f4da289f3cfc289165d9fd3f4:9bc8d77dbec6f141f8b21015a36324e5$",
+    "version": "1.0"
+  }
+}

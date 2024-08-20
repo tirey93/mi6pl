@@ -1,0 +1,396 @@
+{
+  "frames": {
+    "background": {
+      "frame": {
+        "h": 1440,
+        "w": 2340,
+        "x": 8,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 1440,
+        "w": 2340,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": "false"
+    },
+    "birdsnest": {
+      "frame": {
+        "h": 32,
+        "w": 34,
+        "x": 2668,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 32,
+        "w": 34,
+        "x": 1589,
+        "y": 455
+      },
+      "trimmed": "true"
+    },
+    "compass_text_de": {
+      "frame": {
+        "h": 211,
+        "w": 212,
+        "x": 2616,
+        "y": 706
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 211,
+        "w": 212,
+        "x": 1754,
+        "y": 284
+      },
+      "trimmed": "true"
+    },
+    "compass_text_en": {
+      "frame": {
+        "h": 211,
+        "w": 209,
+        "x": 2610,
+        "y": 933
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 211,
+        "w": 209,
+        "x": 1754,
+        "y": 284
+      },
+      "trimmed": "true"
+    },
+    "compass_text_es": {
+      "frame": {
+        "h": 211,
+        "w": 204,
+        "x": 2588,
+        "y": 1160
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 211,
+        "w": 204,
+        "x": 1759,
+        "y": 284
+      },
+      "trimmed": "true"
+    },
+    "compass_text_fr": {
+      "frame": {
+        "h": 211,
+        "w": 209,
+        "x": 2610,
+        "y": 933
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 211,
+        "w": 209,
+        "x": 1754,
+        "y": 284
+      },
+      "trimmed": "true"
+    },
+    "compass_text_it": {
+      "frame": {
+        "h": 211,
+        "w": 204,
+        "x": 2588,
+        "y": 1160
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 211,
+        "w": 204,
+        "x": 1759,
+        "y": 284
+      },
+      "trimmed": "true"
+    },
+    "compass_text_pt_br": {
+      "frame": {
+        "h": 211,
+        "w": 208,
+        "x": 2364,
+        "y": 1125
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 211,
+        "w": 208,
+        "x": 1759,
+        "y": 284
+      },
+      "trimmed": "true"
+    },
+    "compass_text_ru": {
+      "frame": {
+        "h": 198,
+        "w": 202,
+        "x": 2636,
+        "y": 449
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 198,
+        "w": 202,
+        "x": 1763,
+        "y": 290
+      },
+      "trimmed": "true"
+    },
+    "compass_text_zh_cn": {
+      "frame": {
+        "h": 232,
+        "w": 230,
+        "x": 2364,
+        "y": 877
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 232,
+        "w": 230,
+        "x": 1749,
+        "y": 274
+      },
+      "trimmed": "true"
+    },
+    "scurvy_text_de": {
+      "frame": {
+        "h": 155,
+        "w": 236,
+        "x": 2364,
+        "y": 706
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 155,
+        "w": 236,
+        "x": 381,
+        "y": 1039
+      },
+      "trimmed": "true"
+    },
+    "scurvy_text_en": {
+      "frame": {
+        "h": 155,
+        "w": 236,
+        "x": 2364,
+        "y": 706
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 155,
+        "w": 236,
+        "x": 381,
+        "y": 1039
+      },
+      "trimmed": "true"
+    },
+    "scurvy_text_es": {
+      "frame": {
+        "h": 138,
+        "w": 263,
+        "x": 2364,
+        "y": 141
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 138,
+        "w": 263,
+        "x": 367,
+        "y": 1037
+      },
+      "trimmed": "true"
+    },
+    "scurvy_text_fr": {
+      "frame": {
+        "h": 155,
+        "w": 236,
+        "x": 2364,
+        "y": 706
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 155,
+        "w": 236,
+        "x": 381,
+        "y": 1039
+      },
+      "trimmed": "true"
+    },
+    "scurvy_text_it": {
+      "frame": {
+        "h": 155,
+        "w": 236,
+        "x": 2364,
+        "y": 706
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 155,
+        "w": 236,
+        "x": 381,
+        "y": 1039
+      },
+      "trimmed": "true"
+    },
+    "scurvy_text_pt_br": {
+      "frame": {
+        "h": 138,
+        "w": 263,
+        "x": 2364,
+        "y": 295
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 138,
+        "w": 263,
+        "x": 367,
+        "y": 1037
+      },
+      "trimmed": "true"
+    },
+    "scurvy_text_ru": {
+      "frame": {
+        "h": 117,
+        "w": 288,
+        "x": 2364,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 117,
+        "w": 288,
+        "x": 404,
+        "y": 1066
+      },
+      "trimmed": "true"
+    },
+    "scurvy_text_zh_cn": {
+      "frame": {
+        "h": 75,
+        "w": 256,
+        "x": 2364,
+        "y": 615
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 75,
+        "w": 256,
+        "x": 366,
+        "y": 1064
+      },
+      "trimmed": "true"
+    },
+    "seagull": {
+      "frame": {
+        "h": 24,
+        "w": 31,
+        "x": 2718,
+        "y": 8
+      },
+      "rotated": "false",
+      "sourceSize": {
+        "h": 1440,
+        "w": 2340
+      },
+      "spriteSourceSize": {
+        "h": 24,
+        "w": 31,
+        "x": 1586,
+        "y": 444
+      },
+      "trimmed": "true"
+    }
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "format": "RGBA8888",
+    "image": "ScurvyOverview0-hd.png",
+    "scale": "1",
+    "size": {
+      "h": 1456,
+      "w": 2846
+    },
+    "smartupdate": "$TexturePacker:SmartUpdate:0e0ae7023be21fff18c70fd4ebc42be7:baacf344224f777d399adfe9d103aabd:381dea7eb2af3640847390c1590d1f1b$",
+    "version": "1.0"
+  }
+}
