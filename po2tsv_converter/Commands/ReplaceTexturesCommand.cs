@@ -19,6 +19,16 @@ namespace po2tsv_converter.Commands
         public ReplaceTexturesCommand(IOptions<TexturesSettings> options)
         {
             _settings = options.Value;
+
+            var errors = string.Empty;
+            if (!Directory.Exists(_settings.TexturePath))
+                errors += "Error: TexturePath was not found in given path\n";
+            if (!string.IsNullOrEmpty(errors))
+            {
+                Console.WriteLine(errors);
+                HasErrors = true;
+                return;
+            }
         }
 
         public void Execute()
@@ -44,7 +54,7 @@ namespace po2tsv_converter.Commands
 
                 string modifiedJson = jsonObject.ToString(Formatting.Indented);
 
-                File.WriteAllText($"out\\{Path.GetFileName(filePath)}", modifiedJson);
+                File.WriteAllText(filePath, modifiedJson);
             }
         }
     }
