@@ -1,0 +1,14 @@
+8/20/24 7:12 PM
+Project Statistics
+
+                 	Segments	 Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	   13998	107937	                     483109	                       575185	     1	
+Remaining:       	       0	     0	                          0	                            0	     0	
+Unique:          	   11601	 97641	                     435968	                       520541	     1	
+Unique Remaining:	       0	     0	                          0	                            0	     0	
+
+
+Individual File Statistics:
+
+File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+omega.po 	         13998	                 0	          11601	                        0	     107937	              0	       97641	                     0	                           483109	                                    0	                            435968	                                           0	                             575185	                                      0	                              520541	                                             0	
