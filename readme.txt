@@ -1,10 +1,5 @@
 Poniższe repozytorium zawiera najaktualniejszą wersję spolszczenia do gry Return To Monkey Island wydanego przez Terrible Toybox.
 Łatka znajduje się w releasie: https://github.com/tirey93/mi6pl/releases/tag/spolszczenie
-INSTRUKCJA
-1. Pobrany plik Weird.ggpack6 należy przekopiować do katalogu z grą
-2. Uruchamiamy grę, powinna się odpalić w języku domyślnym (angielskim)
-3. Przechodzimy do ustawień Settings -> Text & Language -> i zmieniamy Text Language z English na Polish
-4. Upewnianiamy się, że opcja Text / Speach jest ustawiona na Text+Speach
 
 OPIS REPOZYTORIUM
 W katalogu "omega_t" znajduje się projekt do programu Omega-T ułatwiający tłumaczenie
