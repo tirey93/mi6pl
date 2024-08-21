@@ -1,0 +1,6 @@
+Link do oficjalnego repozytorium: https://github.com/bgbennyboy/Dinky-Explorer
+Release w moim repozotorium: https://github.com/tirey93/mi6pl/releases/tag/dinkyexplorer
+
+Narzędzie służy do przeglądania paczek weird zawierających tekstury, skrypty i czcionki. Potrafi też podmieniać pliki. Aby to zrobić należy przeciągnąć na okno programu zmodyfikowany plik a program automatycznie podmieni i zapisze nową wersję paczki.
+Osobiście używam go wyłącznie do przeglądania plików w paczkach. Do pakowania używam MonkeyPack, który tworzy mniejsze paczki. Plik weird ma ponad 200MB, a paczka z samymii plikami związanymi z tłumaczeniem to kilka MB.
+Szczegółowa instrukcja użytkowania znajduje się w oficjalnym wydaniu: https://quickandeasysoftware.net/readmes/DinkyExplorer.html

@@ -1,0 +1,8 @@
+Narzędzie służące do tworzenia małych paczek weird z dostarczonych mu plików. 
+Oryginalne repozotorium: https://github.com/Didero/MonkeyPack/releases/tag/v0.3
+Release z mojego repozytorium: https://github.com/tirey93/mi6pl/releases/tag/monkeypack
+
+Instrukcja obsługi:
+1. Utwórz katalog o dowolnej nazwie i wklej do niego pliki, które chcesz spakować. Obok niego wklej MonkeyPack.exe. Pliki, które sam wpakowałem i znajdują się one w spolszczeniu umieściłem się w repozytorium w katalogu to_compile.
+2. Przeciągnij cały katalog(drag&drop) na plik wykonywalny MonkeyPack.exe. Zostanie utworzony plik Weird.ggpack6, który zawiera spakowane elementy. Jeśli w katalogu znajduje się już jakiś plik weird z końcówką 6, program utworzy plik z końcówką 6a, itd.
+3. Aby gra go odczytała wystarczy wkleić go do katalogu z grą(obok pozostałych plików Weird).
