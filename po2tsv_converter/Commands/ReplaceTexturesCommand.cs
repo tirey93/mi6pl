@@ -26,6 +26,7 @@ namespace po2tsv_converter.Commands
             if (!string.IsNullOrEmpty(errors))
             {
                 Console.WriteLine(errors);
+                Console.ReadKey();
                 HasErrors = true;
                 return;
             }
